@@ -1,0 +1,18 @@
+/* Localized editable kerb maps. Curvature supplies inferred defaults, NOT a survey.
+ * Stored intervals are authored forward-distance fractions; reversing a race
+ * changes neither their physical positions nor their physical side. */
+(function(root){'use strict';const C=root.AFCore;
+const palettes={redwhite:[[.90,.92,.84],[.81,.18,.12]],bluewhite:[[.90,.92,.88],[.13,.43,.73]],blackwhite:[[.91,.92,.86],[.06,.07,.075]],redyellow:[[.95,.78,.12],[.79,.15,.09]]};
+function infer(track){if(track.config.direction===-1)return infer(C.buildTrack({...track.config,direction:1}));const pts=track.points,n=pts.length,dir=track.config.direction===-1?-1:1,L=track.length,step=L/n,reach=Math.max(2,Math.ceil(13/step)),smooth=[];for(let i=0;i<n;i++){let v=0;for(let d=-reach;d<=reach;d++)v+=pts[(i+d+n)%n].k;v/=(reach*2+1);smooth.push(v);}
+ let runs=[],run=null;for(let i=0;i<n;i++){const sign=Math.abs(smooth[i])>.0018?Math.sign(smooth[i]):0;if(!run||run.side!==sign){if(run&&run.side)runs.push(run);run={start:i,end:i,side:sign,angle:0,peak:0,apex:i};}run.end=i;run.angle+=Math.abs(smooth[i])*pts[i].ds;if(Math.abs(smooth[i])>run.peak){run.peak=Math.abs(smooth[i]);run.apex=i;}}if(run&&run.side)runs.push(run);
+ const id=track.config.source?.id||track.config.id||'',palette=id==='spa'?'redyellow':id==='silverstone'?'blackwhite':id==='yas_marina'?'bluewhite':'redwhite',street=['monaco','baku','marina_bay','vegas','jeddah'].includes(id),zones=[];
+ const add=(s,e,side,label)=>{if(e-s<6)return;for(let i=Math.floor(s/L);i<=Math.floor(e/L);i++){const a=Math.max(s,i*L)-i*L,b=Math.min(e,(i+1)*L)-i*L;if(b-a<1)continue;let start=a/L,end=b/L;if(dir<0){const ref=pts[0].kerbU;let x=ref-end,y=ref-start;while(x<0){x+=1;y+=1;}if(y>1){zones.push({start:x,end:1,side:-side,width:street?.55:.95,color:palette,evidence:'inferred-curvature',label});x=0;y-=1;}start=x;end=y;side=-side;}zones.push({start,end,side,width:street?.55:.95,color:palette,evidence:'inferred-curvature',label});}};
+ let corner=0;for(const r of runs){if(r.angle<.18||r.peak<.0024)continue;corner++;const start=pts[r.start].s,end=pts[r.end].s+pts[r.end].ds,len=end-start,apex=pts[r.apex].s,half=C.clamp(len*.34,10,70);add(Math.max(start-3,apex-half),Math.min(end+4,apex+half),r.side,'Bend '+corner+' · inside apex');if(!street&&r.angle>.45)add(end-Math.min(len*.30,32),end+C.clamp(len*.32,14,60),-r.side,'Bend '+corner+' · outside exit');}
+ zones.sort((a,b)=>a.start-b.start);return C.validateKerbs({version:1,status:'INFERRED · corner-focused reconstruction; not surveyed kerb positions',zones});}
+function prepare(track){if(track._kerbs)return track._kerbs;const saved=track.config.kerbs,pack=root.AFKerbMaps?.[track.config.source?.id];track._kerbs=saved?C.validateKerbs(saved):pack?C.validateKerbs(pack):infer(track);const lists=[[],[]];for(const z of track._kerbs.zones)lists[z.side>0?1:0].push(z);track._kerbSides=lists;return track._kerbs;}
+function atPoint(track,p,side){prepare(track);const authoredSide=track.config.direction===-1?-side:side,u=p.kerbU??p.s/track.length;const list=track._kerbSides[authoredSide>0?1:0];return list.find(z=>u>=z.start&&u<z.end)||null;}
+function color(z,d){const p=palettes[z.color]||palettes.redwhite;return p[Math.floor(d/3)%2];}
+function coverage(track){prepare(track);let length=0;for(const p of track.points)for(const side of [-1,1])if(atPoint(track,p,side))length+=p.ds;return length/(2*track.length);}
+function materialize(track){const map=JSON.parse(JSON.stringify(prepare(track)));track.config.kerbs=map;return map;}
+const api={prepare,infer,atPoint,color,coverage,materialize,palettes};root.AFKerbs=api;if(typeof module!=='undefined'&&module.exports)module.exports=api;
+})(globalThis);

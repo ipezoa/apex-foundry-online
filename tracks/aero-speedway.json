@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "name": "Aero Speedway",
+  "direction": 1,
+  "width": 16,
+  "segments": [
+    {
+      "type": "straight",
+      "length": 1500,
+      "radius": 220,
+      "angle": 90,
+      "grade": 0,
+      "bank": 0,
+      "width": 20,
+      "runoffLeft": 20,
+      "runoffRight": 20,
+      "runoffSurface": "grass"
+    },
+    {
+      "type": "right",
+      "length": 1500,
+      "radius": 220,
+      "angle": 180,
+      "grade": 0,
+      "bank": 6,
+      "width": 20,
+      "runoffLeft": 20,
+      "runoffRight": 20,
+      "runoffSurface": "grass"
+    },
+    {
+      "type": "straight",
+      "length": 1500,
+      "radius": 220,
+      "angle": 90,
+      "grade": 0,
+      "bank": 0,
+      "width": 20,
+      "runoffLeft": 20,
+      "runoffRight": 20,
+      "runoffSurface": "grass"
+    },
+    {
+      "type": "right",
+      "length": 1500,
+      "radius": 220,
+      "angle": 180,
+      "grade": 0,
+      "bank": 6,
+      "width": 20,
+      "runoffLeft": 20,
+      "runoffRight": 20,
+      "runoffSurface": "grass"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "apex-foundry-online",
+  "version": "9.0.0",
+  "private": true,
+  "description": "Apex Foundry v9 — player-hosted online racing with WebSocket relay",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "MIT"
+}

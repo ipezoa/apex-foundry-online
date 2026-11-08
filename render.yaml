@@ -1,0 +1,9 @@
+# Public Node.js web service with WebSocket support (single instance).
+services:
+  - type: web
+    name: apex-foundry-online
+    runtime: node
+    plan: free
+    buildCommand: npm install
+    startCommand: npm start
+    healthCheckPath: /

@@ -1,0 +1,6740 @@
+{
+  "albert_park": {
+    "version": 1,
+    "status": "INFERRED · corner-focused reconstruction; not surveyed kerb positions",
+    "zones": [
+      {
+        "start": 0.05940023668106686,
+        "end": 0.06673892064987469,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 1 · inside apex"
+      },
+      {
+        "start": 0.06494346235006464,
+        "end": 0.07163461538044827,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 1 · outside exit"
+      },
+      {
+        "start": 0.0681809177775553,
+        "end": 0.08259025344911272,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 2 · inside apex"
+      },
+      {
+        "start": 0.0933685703383586,
+        "end": 0.10924976353655323,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 2 · outside exit"
+      },
+      {
+        "start": 0.1962876048432319,
+        "end": 0.20826132611029655,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 3 · inside apex"
+      },
+      {
+        "start": 0.20437505509852624,
+        "end": 0.21529227154790875,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 3 · outside exit"
+      },
+      {
+        "start": 0.22356633668071282,
+        "end": 0.2343828379915385,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 4 · inside apex"
+      },
+      {
+        "start": 0.23329276966970836,
+        "end": 0.24315487380604947,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 4 · outside exit"
+      },
+      {
+        "start": 0.2665761247408085,
+        "end": 0.2754612570607645,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 5 · inside apex"
+      },
+      {
+        "start": 0.2744851656793224,
+        "end": 0.28258631573575294,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 5 · outside exit"
+      },
+      {
+        "start": 0.29954238448298964,
+        "end": 0.307269919037855,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 6 · inside apex"
+      },
+      {
+        "start": 0.33214598785536775,
+        "end": 0.3371688299678258,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 7 · inside apex"
+      },
+      {
+        "start": 0.3474535783435822,
+        "end": 0.35595153991989487,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 8 · inside apex"
+      },
+      {
+        "start": 0.35363293792490375,
+        "end": 0.36138107936213,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 8 · outside exit"
+      },
+      {
+        "start": 0.36122292978787246,
+        "end": 0.37513219805750664,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 9 · inside apex"
+      },
+      {
+        "start": 0.37234212764766295,
+        "end": 0.384950568276079,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 9 · outside exit"
+      },
+      {
+        "start": 0.3801094607736545,
+        "end": 0.3984860716549269,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 10 · inside apex"
+      },
+      {
+        "start": 0.4268891156067208,
+        "end": 0.44431996063685303,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 10 · outside exit"
+      },
+      {
+        "start": 0.45624832465681814,
+        "end": 0.4690896761284931,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 11 · inside apex"
+      },
+      {
+        "start": 0.473481511787945,
+        "end": 0.4868172760486431,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 11 · outside exit"
+      },
+      {
+        "start": 0.483987744396064,
+        "end": 0.49441985292700036,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 12 · inside apex"
+      },
+      {
+        "start": 0.4942607849665314,
+        "end": 0.5037724133329734,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 12 · outside exit"
+      },
+      {
+        "start": 0.5227277027336266,
+        "end": 0.5311486845579485,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 13 · inside apex"
+      },
+      {
+        "start": 0.5528654399159622,
+        "end": 0.5655328654004218,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 14 · inside apex"
+      },
+      {
+        "start": 0.6169134297846842,
+        "end": 0.6308227783544996,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 15 · inside apex"
+      },
+      {
+        "start": 0.6263280410634658,
+        "end": 0.6389365194802025,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 15 · outside exit"
+      },
+      {
+        "start": 0.6406185931284376,
+        "end": 0.6514367886722985,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 16 · inside apex"
+      },
+      {
+        "start": 0.6514822139601891,
+        "end": 0.6613458628384152,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 16 · outside exit"
+      },
+      {
+        "start": 0.6978021077011776,
+        "end": 0.7101661467245216,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 17 · inside apex"
+      },
+      {
+        "start": 0.7721020032839622,
+        "end": 0.7790510366717645,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 18 · inside apex"
+      },
+      {
+        "start": 0.7776176269647683,
+        "end": 0.7839535103477645,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 18 · outside exit"
+      },
+      {
+        "start": 0.814810048048095,
+        "end": 0.8306505071417917,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 19 · inside apex"
+      },
+      {
+        "start": 0.8325759109759006,
+        "end": 0.8460931472862283,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 19 · outside exit"
+      },
+      {
+        "start": 0.8696173729199697,
+        "end": 0.8781125980512136,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 20 · inside apex"
+      },
+      {
+        "start": 0.8769306642229763,
+        "end": 0.8846763106661694,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 20 · outside exit"
+      },
+      {
+        "start": 0.8941562055111293,
+        "end": 0.9103827873013064,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 21 · inside apex"
+      },
+      {
+        "start": 0.9092742120577246,
+        "end": 0.9229731531663962,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 21 · outside exit"
+      }
+    ]
+  },
+  "shanghai": {
+    "version": 1,
+    "status": "INFERRED · corner-focused reconstruction; not surveyed kerb positions",
+    "zones": [
+      {
+        "start": 0.0614555116150042,
+        "end": 0.0827344985696655,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 1 · inside apex"
+      },
+      {
+        "start": 0.07613020577559591,
+        "end": 0.09300784291599594,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 1 · outside exit"
+      },
+      {
+        "start": 0.08200072382087552,
+        "end": 0.10144508540506977,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 2 · inside apex"
+      },
+      {
+        "start": 0.12345582649744227,
+        "end": 0.1403334636378423,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 2 · outside exit"
+      },
+      {
+        "start": 0.16979118287860656,
+        "end": 0.17802489414016082,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 3 · inside apex"
+      },
+      {
+        "start": 0.21136620874465317,
+        "end": 0.22670498554783095,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 4 · inside apex"
+      },
+      {
+        "start": 0.22857166682387547,
+        "end": 0.24166039721487062,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 4 · outside exit"
+      },
+      {
+        "start": 0.23774455255347476,
+        "end": 0.24552698742224832,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 5 · inside apex"
+      },
+      {
+        "start": 0.31076278606178503,
+        "end": 0.3303923101984426,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 6 · inside apex"
+      },
+      {
+        "start": 0.3237880174043731,
+        "end": 0.3406656545447731,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 6 · outside exit"
+      },
+      {
+        "start": 0.3525909228773639,
+        "end": 0.37827428374319005,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 7 · inside apex"
+      },
+      {
+        "start": 0.37277083485888435,
+        "end": 0.3896484719992844,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 7 · outside exit"
+      },
+      {
+        "start": 0.3899019884158472,
+        "end": 0.40150095831879967,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 8 · inside apex"
+      },
+      {
+        "start": 0.3999381400256026,
+        "end": 0.41051367140770634,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 8 · outside exit"
+      },
+      {
+        "start": 0.41175889961775586,
+        "end": 0.4203653622125519,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 9 · inside apex"
+      },
+      {
+        "start": 0.4188684787459812,
+        "end": 0.42671554758241287,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 9 · outside exit"
+      },
+      {
+        "start": 0.5005559417534062,
+        "end": 0.5087850345794273,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 10 · inside apex"
+      },
+      {
+        "start": 0.5076414116274824,
+        "end": 0.5151444080276781,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 10 · outside exit"
+      },
+      {
+        "start": 0.51127192713502,
+        "end": 0.5318175620320534,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 11 · inside apex"
+      },
+      {
+        "start": 0.5807984057015926,
+        "end": 0.5976760428419926,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 11 · outside exit"
+      },
+      {
+        "start": 0.8002219992981352,
+        "end": 0.8174514654295632,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 12 · inside apex"
+      },
+      {
+        "start": 0.8213085228789763,
+        "end": 0.8356291328287118,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 12 · outside exit"
+      },
+      {
+        "start": 0.8720463952273266,
+        "end": 0.8802783302863066,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 13 · inside apex"
+      },
+      {
+        "start": 0.8791342256256046,
+        "end": 0.8866398134734981,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 13 · outside exit"
+      }
+    ]
+  },
+  "suzuka": {
+    "version": 1,
+    "status": "INFERRED · corner-focused reconstruction; not surveyed kerb positions",
+    "zones": [
+      {
+        "start": 0.0761393372795035,
+        "end": 0.0901889860488106,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 1 · inside apex"
+      },
+      {
+        "start": 0.08436852835019511,
+        "end": 0.09649071843969731,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 1 · outside exit"
+      },
+      {
+        "start": 0.09194525854527329,
+        "end": 0.10985764132478523,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 2 · inside apex"
+      },
+      {
+        "start": 0.11380906062760675,
+        "end": 0.1279141392565143,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 2 · outside exit"
+      },
+      {
+        "start": 0.14331870814582315,
+        "end": 0.154206789264358,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 3 · inside apex"
+      },
+      {
+        "start": 0.1548058794314482,
+        "end": 0.1647332475101123,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 3 · outside exit"
+      },
+      {
+        "start": 0.16292547411566577,
+        "end": 0.1759208628394846,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 4 · inside apex"
+      },
+      {
+        "start": 0.17424282106567396,
+        "end": 0.18586888878082874,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 4 · outside exit"
+      },
+      {
+        "start": 0.18734673976991004,
+        "end": 0.20315240570339596,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 5 · inside apex"
+      },
+      {
+        "start": 0.20471816474730473,
+        "end": 0.21766671585524405,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 5 · outside exit"
+      },
+      {
+        "start": 0.21380332105086486,
+        "end": 0.23557991235623174,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 6 · inside apex"
+      },
+      {
+        "start": 0.23932531972423937,
+        "end": 0.255083718066005,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 6 · outside exit"
+      },
+      {
+        "start": 0.25845182121019794,
+        "end": 0.27460852219150833,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 7 · inside apex"
+      },
+      {
+        "start": 0.2698003410720546,
+        "end": 0.282914085143676,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 7 · outside exit"
+      },
+      {
+        "start": 0.2930180653692095,
+        "end": 0.3090585403521631,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 8 · inside apex"
+      },
+      {
+        "start": 0.30285912584992986,
+        "end": 0.3179567501293314,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 8 · outside exit"
+      },
+      {
+        "start": 0.3088862000843792,
+        "end": 0.3217689288586667,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 9 · inside apex"
+      },
+      {
+        "start": 0.3250705862643377,
+        "end": 0.3373582518044853,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 9 · outside exit"
+      },
+      {
+        "start": 0.3527297909013051,
+        "end": 0.35905096868366027,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 10 · inside apex"
+      },
+      {
+        "start": 0.3577503237542261,
+        "end": 0.3635137505557852,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 10 · outside exit"
+      },
+      {
+        "start": 0.37906253479716767,
+        "end": 0.386436174740519,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 11 · inside apex"
+      },
+      {
+        "start": 0.385175781912213,
+        "end": 0.3918988065664451,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 11 · outside exit"
+      },
+      {
+        "start": 0.4351663248887012,
+        "end": 0.44500120884058797,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 12 · inside apex"
+      },
+      {
+        "start": 0.4429763956575123,
+        "end": 0.4519434957312915,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 12 · outside exit"
+      },
+      {
+        "start": 0.456323378713337,
+        "end": 0.4682597496526904,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 13 · inside apex"
+      },
+      {
+        "start": 0.4678675761691088,
+        "end": 0.478750737907931,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 13 · outside exit"
+      },
+      {
+        "start": 0.49568785803896365,
+        "end": 0.5197966922143153,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 14 · inside apex"
+      },
+      {
+        "start": 0.5316746936401501,
+        "end": 0.547517641812524,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 14 · outside exit"
+      },
+      {
+        "start": 0.5726532633543531,
+        "end": 0.5905619288568039,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 15 · inside apex"
+      },
+      {
+        "start": 0.5843625143545707,
+        "end": 0.6002054625269446,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 15 · outside exit"
+      },
+      {
+        "start": 0.6315377336279232,
+        "end": 0.6556465678032749,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 16 · inside apex"
+      },
+      {
+        "start": 0.6592585898466606,
+        "end": 0.6751015380190346,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 16 · outside exit"
+      },
+      {
+        "start": 0.8083701844211654,
+        "end": 0.8286892391697033,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "Archival F1 aerial illustrates 130R kerbs; present-day boundaries not verified; interval inferred.",
+        "label": "130R / T15 · inside apex · inferred"
+      },
+      {
+        "start": 0.8457327487702921,
+        "end": 0.8615756969426661,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "Archival F1 aerial illustrates 130R kerbs; present-day boundaries not verified; interval inferred.",
+        "label": "130R / T15 · outside exit · inferred"
+      },
+      {
+        "start": 0.8831562507908635,
+        "end": 0.8942842108009444,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 18 · inside apex"
+      },
+      {
+        "start": 0.8884830758067628,
+        "end": 0.8990485188720032,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 18 · outside exit"
+      },
+      {
+        "start": 0.8947313553321494,
+        "end": 0.9017538756843893,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 19 · inside apex"
+      },
+      {
+        "start": 0.9008244520358453,
+        "end": 0.9072273382393582,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 19 · outside exit"
+      },
+      {
+        "start": 0.9044391040457898,
+        "end": 0.9237250616441699,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 20 · inside apex"
+      },
+      {
+        "start": 0.9438673929337504,
+        "end": 0.9597103411061244,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 20 · outside exit"
+      }
+    ]
+  },
+  "miami": {
+    "version": 1,
+    "status": "INFERRED · corner-focused reconstruction; not surveyed kerb positions",
+    "zones": [
+      {
+        "start": 0.041664265576635724,
+        "end": 0.05146088576541356,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 1 · inside apex"
+      },
+      {
+        "start": 0.050553171302290666,
+        "end": 0.05948538382735281,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 1 · outside exit"
+      },
+      {
+        "start": 0.05773628574699605,
+        "end": 0.0675359510898177,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 2 · inside apex"
+      },
+      {
+        "start": 0.06718054637803134,
+        "end": 0.0761155353670746,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 2 · outside exit"
+      },
+      {
+        "start": 0.07730233718263259,
+        "end": 0.08898715990461438,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 3 · inside apex"
+      },
+      {
+        "start": 0.08408678493681017,
+        "end": 0.09474059388920535,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 3 · outside exit"
+      },
+      {
+        "start": 0.0915924043765877,
+        "end": 0.09686959027832132,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 4 · inside apex"
+      },
+      {
+        "start": 0.11382152159795085,
+        "end": 0.1282307870356232,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 5 · inside apex"
+      },
+      {
+        "start": 0.12157890233656282,
+        "end": 0.1361838796990666,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 5 · outside exit"
+      },
+      {
+        "start": 0.1768298734165799,
+        "end": 0.19028873133504748,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 6 · inside apex"
+      },
+      {
+        "start": 0.1947533212226631,
+        "end": 0.20811631897553232,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 6 · outside exit"
+      },
+      {
+        "start": 0.20177486161333666,
+        "end": 0.21689637758294167,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 7 · inside apex"
+      },
+      {
+        "start": 0.21969767726492748,
+        "end": 0.23306047272835914,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 7 · outside exit"
+      },
+      {
+        "start": 0.2692164549052091,
+        "end": 0.2906494699775755,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 8 · inside apex"
+      },
+      {
+        "start": 0.28399758527851515,
+        "end": 0.30099684617611394,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 8 · outside exit"
+      },
+      {
+        "start": 0.29131837433646907,
+        "end": 0.29848047529550664,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 9 · inside apex"
+      },
+      {
+        "start": 0.32552217042846004,
+        "end": 0.3307995502290661,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 10 · inside apex"
+      },
+      {
+        "start": 0.37541458726469923,
+        "end": 0.38069177290046047,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 11 · inside apex"
+      },
+      {
+        "start": 0.548884028461111,
+        "end": 0.5586805587558429,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 12 · inside apex"
+      },
+      {
+        "start": 0.5566629720004387,
+        "end": 0.5655951025632825,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 12 · outside exit"
+      },
+      {
+        "start": 0.5715161620315754,
+        "end": 0.5903609837356015,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 13 · inside apex"
+      },
+      {
+        "start": 0.5838938810313737,
+        "end": 0.5986748188206684,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 13 · outside exit"
+      },
+      {
+        "start": 0.5931990489622089,
+        "end": 0.6052608254838511,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 14 · inside apex"
+      },
+      {
+        "start": 0.6033319250255004,
+        "end": 0.6143294271481741,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 14 · outside exit"
+      },
+      {
+        "start": 0.6108176037170827,
+        "end": 0.6164656141736384,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 15 · inside apex"
+      },
+      {
+        "start": 0.6150217871470539,
+        "end": 0.6201714437397959,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 15 · outside exit"
+      },
+      {
+        "start": 0.6172677980721895,
+        "end": 0.6232960466096154,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 16 · inside apex"
+      },
+      {
+        "start": 0.6237191064311199,
+        "end": 0.629215450685832,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 16 · outside exit"
+      },
+      {
+        "start": 0.6322097739960273,
+        "end": 0.6404984459088918,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 17 · inside apex"
+      },
+      {
+        "start": 0.6387916169155939,
+        "end": 0.6463489354243822,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 17 · outside exit"
+      },
+      {
+        "start": 0.8725085755534042,
+        "end": 0.8948596452381519,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 18 · inside apex"
+      },
+      {
+        "start": 0.9148143299082176,
+        "end": 0.9318135908058165,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 18 · outside exit"
+      },
+      {
+        "start": 0.927379495217643,
+        "end": 0.9361604277637954,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 19 · inside apex"
+      },
+      {
+        "start": 0.9498196257759274,
+        "end": 0.9597164308318137,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 20 · inside apex"
+      },
+      {
+        "start": 0.9543208410601732,
+        "end": 0.963944256768446,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 20 · outside exit"
+      }
+    ]
+  },
+  "villeneuve": {
+    "version": 1,
+    "status": "INFERRED · corner-focused reconstruction; not surveyed kerb positions",
+    "zones": [
+      {
+        "start": 0.09824479202135065,
+        "end": 0.10946710965947301,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 1 · inside apex"
+      },
+      {
+        "start": 0.10715625904245932,
+        "end": 0.1173883721831003,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 1 · outside exit"
+      },
+      {
+        "start": 0.11210716500042912,
+        "end": 0.131799324594152,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 2 · inside apex"
+      },
+      {
+        "start": 0.1370873075359302,
+        "end": 0.15454667201847197,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 2 · outside exit"
+      },
+      {
+        "start": 0.1547419352264446,
+        "end": 0.16958459000496742,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 3 · inside apex"
+      },
+      {
+        "start": 0.2073719438063732,
+        "end": 0.21765964216556868,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 4 · inside apex"
+      },
+      {
+        "start": 0.2148535860630588,
+        "end": 0.22423354633173703,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 4 · outside exit"
+      },
+      {
+        "start": 0.2209053317151761,
+        "end": 0.2302579245851708,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 5 · inside apex"
+      },
+      {
+        "start": 0.22970774292669355,
+        "end": 0.23823510701404166,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 5 · outside exit"
+      },
+      {
+        "start": 0.25416514700527054,
+        "end": 0.26164825559635907,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 6 · inside apex"
+      },
+      {
+        "start": 0.26478451786614726,
+        "end": 0.28632585612059475,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 7 · inside apex"
+      },
+      {
+        "start": 0.2911480624168907,
+        "end": 0.30905011554431,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 7 · outside exit"
+      },
+      {
+        "start": 0.3261075060143707,
+        "end": 0.33826395649627183,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 8 · inside apex"
+      },
+      {
+        "start": 0.337136189509264,
+        "end": 0.34822001200746794,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 8 · outside exit"
+      },
+      {
+        "start": 0.3418114138121116,
+        "end": 0.3578217137077848,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 9 · inside apex"
+      },
+      {
+        "start": 0.3640467196066989,
+        "end": 0.38062773633214825,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 9 · outside exit"
+      },
+      {
+        "start": 0.5015152462118814,
+        "end": 0.5108667515705106,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 10 · inside apex"
+      },
+      {
+        "start": 0.5075657819476549,
+        "end": 0.5160921544805226,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 10 · outside exit"
+      },
+      {
+        "start": 0.5116913272693516,
+        "end": 0.524455851253904,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 11 · inside apex"
+      },
+      {
+        "start": 0.5287476479676702,
+        "end": 0.5432453781837584,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 11 · outside exit"
+      },
+      {
+        "start": 0.6175143851753155,
+        "end": 0.627336086828543,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 12 · inside apex"
+      },
+      {
+        "start": 0.6571289690265988,
+        "end": 0.671616945129416,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 13 · inside apex"
+      },
+      {
+        "start": 0.6689780514335746,
+        "end": 0.6821876767037903,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 13 · outside exit"
+      },
+      {
+        "start": 0.6894970730838871,
+        "end": 0.6983832102628066,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 14 · inside apex"
+      },
+      {
+        "start": 0.9373523321061259,
+        "end": 0.9443639203445047,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 15 · inside apex"
+      },
+      {
+        "start": 0.9418874422547164,
+        "end": 0.9482803609426501,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 15 · outside exit"
+      },
+      {
+        "start": 0.9444435932092075,
+        "end": 0.9523913398312334,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 16 · inside apex"
+      },
+      {
+        "start": 0.9531622938825574,
+        "end": 0.9604087687438163,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 16 · outside exit"
+      }
+    ]
+  },
+  "monaco": {
+    "version": 1,
+    "status": "INFERRED · corner-focused reconstruction; not surveyed kerb positions",
+    "zones": [
+      {
+        "start": 0.039449931875650456,
+        "end": 0.04861589370084516,
+        "side": 1,
+        "width": 0.55,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 1 · inside apex"
+      },
+      {
+        "start": 0.052659871548818904,
+        "end": 0.05877025414204899,
+        "side": -1,
+        "width": 0.55,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 2 · inside apex"
+      },
+      {
+        "start": 0.06128213688764943,
+        "end": 0.0734964488736032,
+        "side": 1,
+        "width": 0.55,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 3 · inside apex"
+      },
+      {
+        "start": 0.14846084149832325,
+        "end": 0.15884870346661978,
+        "side": -1,
+        "width": 0.55,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 4 · inside apex"
+      },
+      {
+        "start": 0.17342429975042759,
+        "end": 0.18704789879855283,
+        "side": 1,
+        "width": 0.55,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 5 · inside apex"
+      },
+      {
+        "start": 0.21377283637313654,
+        "end": 0.2534894247674815,
+        "side": -1,
+        "width": 0.55,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 6 · inside apex"
+      },
+      {
+        "start": 0.2627982755162868,
+        "end": 0.2817385210557777,
+        "side": 1,
+        "width": 0.55,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 7 · inside apex"
+      },
+      {
+        "start": 0.3374138140633491,
+        "end": 0.352681651430457,
+        "side": 1,
+        "width": 0.55,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 8 · inside apex"
+      },
+      {
+        "start": 0.3593475018453452,
+        "end": 0.3666792615238011,
+        "side": -1,
+        "width": 0.55,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 9 · inside apex"
+      },
+      {
+        "start": 0.3769546563128855,
+        "end": 0.3903734942214876,
+        "side": -1,
+        "width": 0.55,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 10 · inside apex"
+      },
+      {
+        "start": 0.3999633213119233,
+        "end": 0.41584368731740434,
+        "side": 1,
+        "width": 0.55,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 11 · inside apex"
+      },
+      {
+        "start": 0.42662602979359043,
+        "end": 0.44128252737139584,
+        "side": 1,
+        "width": 0.55,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 12 · inside apex"
+      },
+      {
+        "start": 0.4887783315818136,
+        "end": 0.5174984427247722,
+        "side": 1,
+        "width": 0.55,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 13 · inside apex"
+      },
+      {
+        "start": 0.5375020159058812,
+        "end": 0.5460566700639914,
+        "side": 1,
+        "width": 0.55,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 14 · inside apex"
+      },
+      {
+        "start": 0.6279791672898217,
+        "end": 0.6353051744431996,
+        "side": -1,
+        "width": 0.55,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 15 · inside apex"
+      },
+      {
+        "start": 0.6375417081928733,
+        "end": 0.6454774533452751,
+        "side": 1,
+        "width": 0.55,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 16 · inside apex"
+      },
+      {
+        "start": 0.6492900157643282,
+        "end": 0.6552834230102108,
+        "side": -1,
+        "width": 0.55,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 17 · inside apex"
+      },
+      {
+        "start": 0.7097989116779629,
+        "end": 0.7328543487598052,
+        "side": -1,
+        "width": 0.55,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 18 · inside apex"
+      },
+      {
+        "start": 0.7594165463146323,
+        "end": 0.7698023737637033,
+        "side": -1,
+        "width": 0.55,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 19 · inside apex"
+      },
+      {
+        "start": 0.771706607004042,
+        "end": 0.7808708304235897,
+        "side": 1,
+        "width": 0.55,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 20 · inside apex"
+      },
+      {
+        "start": 0.8100588528281015,
+        "end": 0.8179976087720747,
+        "side": 1,
+        "width": 0.55,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 21 · inside apex"
+      },
+      {
+        "start": 0.8185148647278693,
+        "end": 0.8415974759934847,
+        "side": -1,
+        "width": 0.55,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 22 · inside apex"
+      },
+      {
+        "start": 0.8688276328965627,
+        "end": 0.8945689265990884,
+        "side": 1,
+        "width": 0.55,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 23 · inside apex"
+      },
+      {
+        "start": 0.9133732973518102,
+        "end": 0.919483109708745,
+        "side": -1,
+        "width": 0.55,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 24 · inside apex"
+      },
+      {
+        "start": 0.9327822924790243,
+        "end": 0.945003489608499,
+        "side": 1,
+        "width": 0.55,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 25 · inside apex"
+      }
+    ]
+  },
+  "catalunya": {
+    "version": 1,
+    "status": "INFERRED · corner-focused reconstruction; not surveyed kerb positions",
+    "zones": [
+      {
+        "start": 0.14753858602233325,
+        "end": 0.1615485658273418,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 1 · inside apex"
+      },
+      {
+        "start": 0.15802048875762348,
+        "end": 0.1707942938739548,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 1 · outside exit"
+      },
+      {
+        "start": 0.17029258981186274,
+        "end": 0.18386562210002433,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 2 · inside apex"
+      },
+      {
+        "start": 0.17946147882112448,
+        "end": 0.1918368906132718,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 2 · outside exit"
+      },
+      {
+        "start": 0.20583426378621464,
+        "end": 0.23589653567763752,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 3 · inside apex"
+      },
+      {
+        "start": 0.2777425700271235,
+        "end": 0.2974977772700585,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 3 · outside exit"
+      },
+      {
+        "start": 0.3303333821853293,
+        "end": 0.3524474371367979,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 4 · inside apex"
+      },
+      {
+        "start": 0.38334428494715794,
+        "end": 0.403099492190093,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 4 · outside exit"
+      },
+      {
+        "start": 0.42566885009214606,
+        "end": 0.4436177622153584,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 5 · inside apex"
+      },
+      {
+        "start": 0.4380730715851334,
+        "end": 0.45339099489897045,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 5 · outside exit"
+      },
+      {
+        "start": 0.48146853731399325,
+        "end": 0.4973181746814867,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 6 · inside apex"
+      },
+      {
+        "start": 0.4895878761951208,
+        "end": 0.5051136889157498,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 6 · outside exit"
+      },
+      {
+        "start": 0.5145662343415968,
+        "end": 0.5285761910373555,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 7 · inside apex"
+      },
+      {
+        "start": 0.5256918714293699,
+        "end": 0.5384656554755026,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 7 · outside exit"
+      },
+      {
+        "start": 0.5358392238494819,
+        "end": 0.5472236913310152,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 8 · inside apex"
+      },
+      {
+        "start": 0.5442359800815649,
+        "end": 0.5546159357264924,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 8 · outside exit"
+      },
+      {
+        "start": 0.5842372978825296,
+        "end": 0.6070058955810366,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 9 · inside apex"
+      },
+      {
+        "start": 0.6080673572587851,
+        "end": 0.6256533679021724,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 9 · outside exit"
+      },
+      {
+        "start": 0.7128172481419908,
+        "end": 0.7381496489861828,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 10 · inside apex"
+      },
+      {
+        "start": 0.756811060074312,
+        "end": 0.776566267317247,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 10 · outside exit"
+      },
+      {
+        "start": 0.7643261183426221,
+        "end": 0.7909474824446423,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 11 · inside apex"
+      },
+      {
+        "start": 0.8031696764386058,
+        "end": 0.8229248836815408,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 11 · outside exit"
+      },
+      {
+        "start": 0.8442079312983399,
+        "end": 0.8617697688571023,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 12 · inside apex"
+      },
+      {
+        "start": 0.8540394703707365,
+        "end": 0.8693588798953945,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 12 · outside exit"
+      },
+      {
+        "start": 0.9035905198602545,
+        "end": 0.9289863397708378,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 13 · inside apex"
+      },
+      {
+        "start": 0.921651366279224,
+        "end": 0.9404737167871179,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 13 · outside exit"
+      }
+    ]
+  },
+  "red_bull_ring": {
+    "version": 1,
+    "status": "REFERENCE-INFORMED · T1/T6/T7 exit presence supported; all numeric extents inferred",
+    "zones": [
+      {
+        "start": 0.07064026934980833,
+        "end": 0.08054000924634175,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 1 · inside apex"
+      },
+      {
+        "start": 0.07815465036213362,
+        "end": 0.0871808837972082,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "Reference supports kerb presence; interval inferred. Mercedes-AMG F1 Austrian GP preview, 2025.",
+        "label": "T1 exit · extent inferred"
+      },
+      {
+        "start": 0.28745478945037195,
+        "end": 0.2992353794381861,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 2 · inside apex"
+      },
+      {
+        "start": 0.2978465221715323,
+        "end": 0.30858764833689234,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 2 · outside exit"
+      },
+      {
+        "start": 0.47017901038208754,
+        "end": 0.4981473960763733,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 3 · inside apex"
+      },
+      {
+        "start": 0.5362871138940497,
+        "end": 0.5575538730261888,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 3 · outside exit"
+      },
+      {
+        "start": 0.5893717062823103,
+        "end": 0.6214375265866433,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 4 · inside apex"
+      },
+      {
+        "start": 0.6208920933777297,
+        "end": 0.6421588525098687,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "Reference supports kerb presence; interval inferred. Mercedes-AMG F1 Austrian GP preview, 2025.",
+        "label": "T6 exit · extent inferred"
+      },
+      {
+        "start": 0.6587616946559468,
+        "end": 0.6865832291757463,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 5 · inside apex"
+      },
+      {
+        "start": 0.6888529107393998,
+        "end": 0.7093425311834255,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "Reference supports kerb presence; interval inferred. Mercedes-AMG F1 Austrian GP preview, 2025.",
+        "label": "T7 exit · extent inferred"
+      },
+      {
+        "start": 0.6990240981216872,
+        "end": 0.7182339156504953,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 6 · inside apex"
+      },
+      {
+        "start": 0.7304626150950444,
+        "end": 0.7500652428849394,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 6 · outside exit"
+      },
+      {
+        "start": 0.833563821383329,
+        "end": 0.8527173213920585,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 7 · inside apex"
+      },
+      {
+        "start": 0.8566791901936638,
+        "end": 0.8736184105713917,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 7 · outside exit"
+      },
+      {
+        "start": 0.8876556065711954,
+        "end": 0.9087074542567258,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 8 · inside apex"
+      },
+      {
+        "start": 0.9183975694994156,
+        "end": 0.9377772999948668,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 8 · outside exit"
+      }
+    ]
+  },
+  "silverstone": {
+    "version": 1,
+    "status": "INFERRED · corner-focused reconstruction; not surveyed kerb positions",
+    "zones": [
+      {
+        "start": 0,
+        "end": 0.007067033972911071,
+        "side": 1,
+        "width": 0.95,
+        "color": "blackwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 1 · inside apex"
+      },
+      {
+        "start": 0.011405127666269813,
+        "end": 0.021506812170680224,
+        "side": -1,
+        "width": 0.95,
+        "color": "blackwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 1 · outside exit"
+      },
+      {
+        "start": 0.036843470072273996,
+        "end": 0.051596046065653954,
+        "side": -1,
+        "width": 0.95,
+        "color": "blackwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 2 · inside apex"
+      },
+      {
+        "start": 0.045485029258484695,
+        "end": 0.058412067063758864,
+        "side": 1,
+        "width": 0.95,
+        "color": "blackwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 2 · outside exit"
+      },
+      {
+        "start": 0.07931898713849832,
+        "end": 0.09074227810089541,
+        "side": 1,
+        "width": 0.95,
+        "color": "blackwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 3 · inside apex"
+      },
+      {
+        "start": 0.08813554552154444,
+        "end": 0.09855089904608295,
+        "side": -1,
+        "width": 0.95,
+        "color": "blackwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 3 · outside exit"
+      },
+      {
+        "start": 0.10390748467695593,
+        "end": 0.1170609088240772,
+        "side": -1,
+        "width": 0.95,
+        "color": "blackwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 4 · inside apex"
+      },
+      {
+        "start": 0.11523344275831876,
+        "end": 0.1268553043554936,
+        "side": 1,
+        "width": 0.95,
+        "color": "blackwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 4 · outside exit"
+      },
+      {
+        "start": 0.1349121618592056,
+        "end": 0.15189426070784817,
+        "side": -1,
+        "width": 0.95,
+        "color": "blackwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 5 · inside apex"
+      },
+      {
+        "start": 0.1457832439006789,
+        "end": 0.15985062204562145,
+        "side": 1,
+        "width": 0.95,
+        "color": "blackwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 5 · outside exit"
+      },
+      {
+        "start": 0.26405953800313814,
+        "end": 0.2817334495656884,
+        "side": -1,
+        "width": 0.95,
+        "color": "blackwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 6 · inside apex"
+      },
+      {
+        "start": 0.27562243275851916,
+        "end": 0.290341049486638,
+        "side": 1,
+        "width": 0.95,
+        "color": "blackwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 6 · outside exit"
+      },
+      {
+        "start": 0.28665541239363534,
+        "end": 0.3061749709019903,
+        "side": 1,
+        "width": 0.95,
+        "color": "blackwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 7 · inside apex"
+      },
+      {
+        "start": 0.3183890935285068,
+        "end": 0.3340061364801616,
+        "side": -1,
+        "width": 0.95,
+        "color": "blackwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 7 · outside exit"
+      },
+      {
+        "start": 0.35267304224095963,
+        "end": 0.37643810760217344,
+        "side": 1,
+        "width": 0.95,
+        "color": "blackwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 8 · inside apex"
+      },
+      {
+        "start": 0.3738895762055736,
+        "end": 0.3895066191572284,
+        "side": -1,
+        "width": 0.95,
+        "color": "blackwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 8 · outside exit"
+      },
+      {
+        "start": 0.4473484635159009,
+        "end": 0.46812232832081174,
+        "side": 1,
+        "width": 0.95,
+        "color": "blackwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 9 · inside apex"
+      },
+      {
+        "start": 0.4680874527434931,
+        "end": 0.4832954040619807,
+        "side": -1,
+        "width": 0.95,
+        "color": "blackwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 9 · outside exit"
+      },
+      {
+        "start": 0.5414750805371675,
+        "end": 0.5522084310952874,
+        "side": -1,
+        "width": 0.95,
+        "color": "blackwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 10 · inside apex"
+      },
+      {
+        "start": 0.5502532423159271,
+        "end": 0.5600395325306834,
+        "side": 1,
+        "width": 0.95,
+        "color": "blackwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 10 · outside exit"
+      },
+      {
+        "start": 0.559458798422814,
+        "end": 0.570884238641159,
+        "side": 1,
+        "width": 0.95,
+        "color": "blackwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 11 · inside apex"
+      },
+      {
+        "start": 0.5687867656382048,
+        "end": 0.5792040787784606,
+        "side": -1,
+        "width": 0.95,
+        "color": "blackwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 11 · outside exit"
+      },
+      {
+        "start": 0.5862512464711341,
+        "end": 0.6001003785606498,
+        "side": -1,
+        "width": 0.95,
+        "color": "blackwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 12 · inside apex"
+      },
+      {
+        "start": 0.596908710745696,
+        "end": 0.6088579643157623,
+        "side": 1,
+        "width": 0.95,
+        "color": "blackwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 12 · outside exit"
+      },
+      {
+        "start": 0.6087765281132188,
+        "end": 0.627472411359278,
+        "side": 1,
+        "width": 0.95,
+        "color": "blackwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 13 · inside apex"
+      },
+      {
+        "start": 0.6274577629025943,
+        "end": 0.6416878405463281,
+        "side": -1,
+        "width": 0.95,
+        "color": "blackwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 13 · outside exit"
+      },
+      {
+        "start": 0.6397738965136684,
+        "end": 0.6473909760020207,
+        "side": -1,
+        "width": 0.95,
+        "color": "blackwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 14 · inside apex"
+      },
+      {
+        "start": 0.6463319192475039,
+        "end": 0.6532769034868838,
+        "side": 1,
+        "width": 0.95,
+        "color": "blackwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 14 · outside exit"
+      },
+      {
+        "start": 0.7895453051851339,
+        "end": 0.8117808979221881,
+        "side": 1,
+        "width": 0.95,
+        "color": "blackwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 15 · inside apex"
+      },
+      {
+        "start": 0.8056698811150188,
+        "end": 0.8212869240666736,
+        "side": -1,
+        "width": 0.95,
+        "color": "blackwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 15 · outside exit"
+      },
+      {
+        "start": 0.8666940559782295,
+        "end": 0.8746547513450045,
+        "side": -1,
+        "width": 0.95,
+        "color": "blackwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 16 · inside apex"
+      },
+      {
+        "start": 0.8732701685867812,
+        "end": 0.8805284496564878,
+        "side": 1,
+        "width": 0.95,
+        "color": "blackwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 16 · outside exit"
+      },
+      {
+        "start": 0.8767821731654476,
+        "end": 0.8947732621370382,
+        "side": 1,
+        "width": 0.95,
+        "color": "blackwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 17 · inside apex"
+      },
+      {
+        "start": 0.9176812550345064,
+        "end": 0.9332982979861612,
+        "side": -1,
+        "width": 0.95,
+        "color": "blackwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 17 · outside exit"
+      },
+      {
+        "start": 0.9994907485994026,
+        "end": 1,
+        "side": 1,
+        "width": 0.95,
+        "color": "blackwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 1 · inside apex"
+      }
+    ]
+  },
+  "spa": {
+    "version": 1,
+    "status": "INFERRED · corner-focused reconstruction; not surveyed kerb positions",
+    "zones": [
+      {
+        "start": 0.03075811050260852,
+        "end": 0.038615988908385676,
+        "side": 1,
+        "width": 0.95,
+        "color": "redyellow",
+        "evidence": "inferred-curvature",
+        "label": "Bend 1 · inside apex"
+      },
+      {
+        "start": 0.03764043852902452,
+        "end": 0.044804974722527216,
+        "side": -1,
+        "width": 0.95,
+        "color": "redyellow",
+        "evidence": "inferred-curvature",
+        "label": "Bend 1 · outside exit"
+      },
+      {
+        "start": 0.12600104885886243,
+        "end": 0.13095185574939464,
+        "side": -1,
+        "width": 0.95,
+        "color": "redyellow",
+        "evidence": "inferred-curvature",
+        "label": "Bend 2 · inside apex"
+      },
+      {
+        "start": 0.1366135973283762,
+        "end": 0.14773151754994107,
+        "side": 1,
+        "width": 0.95,
+        "color": "redyellow",
+        "evidence": "inferred-curvature",
+        "label": "Bend 3 · inside apex"
+      },
+      {
+        "start": 0.15131697968123825,
+        "end": 0.161915837018341,
+        "side": -1,
+        "width": 0.95,
+        "color": "redyellow",
+        "evidence": "inferred-curvature",
+        "label": "Bend 3 · outside exit"
+      },
+      {
+        "start": 0.15896082377741036,
+        "end": 0.1656590110095503,
+        "side": -1,
+        "width": 0.95,
+        "color": "redyellow",
+        "evidence": "inferred-curvature",
+        "label": "Bend 4 · inside apex"
+      },
+      {
+        "start": 0.32226430981083715,
+        "end": 0.33041780013717725,
+        "side": 1,
+        "width": 0.95,
+        "color": "redyellow",
+        "evidence": "inferred-curvature",
+        "label": "Bend 5 · inside apex"
+      },
+      {
+        "start": 0.3278824324682576,
+        "end": 0.3353164971775678,
+        "side": -1,
+        "width": 0.95,
+        "color": "redyellow",
+        "evidence": "inferred-curvature",
+        "label": "Bend 5 · outside exit"
+      },
+      {
+        "start": 0.33190778212546185,
+        "end": 0.338982220225068,
+        "side": -1,
+        "width": 0.95,
+        "color": "redyellow",
+        "evidence": "inferred-curvature",
+        "label": "Bend 6 · inside apex"
+      },
+      {
+        "start": 0.3407294542063802,
+        "end": 0.34816356014144395,
+        "side": 1,
+        "width": 0.95,
+        "color": "redyellow",
+        "evidence": "inferred-curvature",
+        "label": "Bend 6 · outside exit"
+      },
+      {
+        "start": 0.35564991683217895,
+        "end": 0.36555099245859546,
+        "side": 1,
+        "width": 0.95,
+        "color": "redyellow",
+        "evidence": "inferred-curvature",
+        "label": "Bend 7 · inside apex"
+      },
+      {
+        "start": 0.3626562402220865,
+        "end": 0.3716836915285251,
+        "side": -1,
+        "width": 0.95,
+        "color": "redyellow",
+        "evidence": "inferred-curvature",
+        "label": "Bend 7 · outside exit"
+      },
+      {
+        "start": 0.40385655450830116,
+        "end": 0.42030909848152137,
+        "side": 1,
+        "width": 0.95,
+        "color": "redyellow",
+        "evidence": "inferred-curvature",
+        "label": "Bend 8 · inside apex"
+      },
+      {
+        "start": 0.4266940484566727,
+        "end": 0.4398293996811202,
+        "side": -1,
+        "width": 0.95,
+        "color": "redyellow",
+        "evidence": "inferred-curvature",
+        "label": "Bend 8 · outside exit"
+      },
+      {
+        "start": 0.44558443047242546,
+        "end": 0.45548534953721215,
+        "side": -1,
+        "width": 0.95,
+        "color": "redyellow",
+        "evidence": "inferred-curvature",
+        "label": "Bend 9 · inside apex"
+      },
+      {
+        "start": 0.4538751627234119,
+        "end": 0.4629024712824821,
+        "side": 1,
+        "width": 0.95,
+        "color": "redyellow",
+        "evidence": "inferred-curvature",
+        "label": "Bend 9 · outside exit"
+      },
+      {
+        "start": 0.5173460317702128,
+        "end": 0.5294831314518655,
+        "side": -1,
+        "width": 0.95,
+        "color": "redyellow",
+        "evidence": "inferred-curvature",
+        "label": "Bend 10 · inside apex"
+      },
+      {
+        "start": 0.5350470555831767,
+        "end": 0.546605158187512,
+        "side": 1,
+        "width": 0.95,
+        "color": "redyellow",
+        "evidence": "inferred-curvature",
+        "label": "Bend 10 · outside exit"
+      },
+      {
+        "start": 0.548037349710564,
+        "end": 0.5680259276608102,
+        "side": -1,
+        "width": 0.95,
+        "color": "redyellow",
+        "evidence": "inferred-curvature",
+        "label": "Bend 11 · inside apex"
+      },
+      {
+        "start": 0.5693089317163038,
+        "end": 0.5824442829407513,
+        "side": 1,
+        "width": 0.95,
+        "color": "redyellow",
+        "evidence": "inferred-curvature",
+        "label": "Bend 11 · outside exit"
+      },
+      {
+        "start": 0.6119947883976061,
+        "end": 0.6275664168337163,
+        "side": 1,
+        "width": 0.95,
+        "color": "redyellow",
+        "evidence": "inferred-curvature",
+        "label": "Bend 12 · inside apex"
+      },
+      {
+        "start": 0.6309801040598496,
+        "end": 0.6429491800559544,
+        "side": -1,
+        "width": 0.95,
+        "color": "redyellow",
+        "evidence": "inferred-curvature",
+        "label": "Bend 12 · outside exit"
+      },
+      {
+        "start": 0.6429747703914432,
+        "end": 0.6572442395964814,
+        "side": -1,
+        "width": 0.95,
+        "color": "redyellow",
+        "evidence": "inferred-curvature",
+        "label": "Bend 13 · inside apex"
+      },
+      {
+        "start": 0.6528211813853632,
+        "end": 0.664105043534345,
+        "side": 1,
+        "width": 0.95,
+        "color": "redyellow",
+        "evidence": "inferred-curvature",
+        "label": "Bend 13 · outside exit"
+      },
+      {
+        "start": 0.6832663402461349,
+        "end": 0.6940406906770747,
+        "side": 1,
+        "width": 0.95,
+        "color": "redyellow",
+        "evidence": "inferred-curvature",
+        "label": "Bend 14 · inside apex"
+      },
+      {
+        "start": 0.6909364682659206,
+        "end": 0.7005755686388562,
+        "side": -1,
+        "width": 0.95,
+        "color": "redyellow",
+        "evidence": "inferred-curvature",
+        "label": "Bend 14 · outside exit"
+      },
+      {
+        "start": 0.7149232607179905,
+        "end": 0.729193003912133,
+        "side": 1,
+        "width": 0.95,
+        "color": "redyellow",
+        "evidence": "inferred-curvature",
+        "label": "Bend 15 · inside apex"
+      },
+      {
+        "start": 0.7247698373507269,
+        "end": 0.7360538284357577,
+        "side": -1,
+        "width": 0.95,
+        "color": "redyellow",
+        "evidence": "inferred-curvature",
+        "label": "Bend 15 · outside exit"
+      },
+      {
+        "start": 0.8203995926320106,
+        "end": 0.8331251985425984,
+        "side": -1,
+        "width": 0.95,
+        "color": "redyellow",
+        "evidence": "inferred-curvature",
+        "label": "Bend 16 · inside apex"
+      },
+      {
+        "start": 0.8279852784982493,
+        "end": 0.8403658920433165,
+        "side": 1,
+        "width": 0.95,
+        "color": "redyellow",
+        "evidence": "inferred-curvature",
+        "label": "Bend 16 · outside exit"
+      },
+      {
+        "start": 0.8621310542224717,
+        "end": 0.8733832282471119,
+        "side": -1,
+        "width": 0.95,
+        "color": "redyellow",
+        "evidence": "inferred-curvature",
+        "label": "Bend 17 · inside apex"
+      },
+      {
+        "start": 0.8682433082027629,
+        "end": 0.878431040749856,
+        "side": 1,
+        "width": 0.95,
+        "color": "redyellow",
+        "evidence": "inferred-curvature",
+        "label": "Bend 17 · outside exit"
+      },
+      {
+        "start": 0.9402837828008017,
+        "end": 0.9458134665775113,
+        "side": 1,
+        "width": 0.95,
+        "color": "redyellow",
+        "evidence": "inferred-curvature",
+        "label": "Bend 18 · inside apex"
+      },
+      {
+        "start": 0.9444597871337024,
+        "end": 0.9495015576359964,
+        "side": -1,
+        "width": 0.95,
+        "color": "redyellow",
+        "evidence": "inferred-curvature",
+        "label": "Bend 18 · outside exit"
+      },
+      {
+        "start": 0.9481149874239471,
+        "end": 0.9551002775309929,
+        "side": -1,
+        "width": 0.95,
+        "color": "redyellow",
+        "evidence": "inferred-curvature",
+        "label": "Bend 19 · inside apex"
+      },
+      {
+        "start": 0.9545183554439135,
+        "end": 0.9608872964238669,
+        "side": 1,
+        "width": 0.95,
+        "color": "redyellow",
+        "evidence": "inferred-curvature",
+        "label": "Bend 19 · outside exit"
+      }
+    ]
+  },
+  "hungaroring": {
+    "version": 1,
+    "status": "INFERRED · corner-focused reconstruction; not surveyed kerb positions",
+    "zones": [
+      {
+        "start": 0.07444494147540065,
+        "end": 0.09119625339070571,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 1 · inside apex"
+      },
+      {
+        "start": 0.08783354553341102,
+        "end": 0.1030207842844389,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 1 · outside exit"
+      },
+      {
+        "start": 0.11519348380160338,
+        "end": 0.13917398486332463,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 2 · inside apex"
+      },
+      {
+        "start": 0.1309566828706386,
+        "end": 0.15030803450821126,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 2 · outside exit"
+      },
+      {
+        "start": 0.1929776892134243,
+        "end": 0.22043637090736,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 3 · inside apex"
+      },
+      {
+        "start": 0.21240711769628526,
+        "end": 0.23263311869608047,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 3 · outside exit"
+      },
+      {
+        "start": 0.2321146437333616,
+        "end": 0.24700830914297986,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 4 · inside apex"
+      },
+      {
+        "start": 0.2473641051917675,
+        "end": 0.26094362365347823,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 4 · outside exit"
+      },
+      {
+        "start": 0.3268477858518187,
+        "end": 0.3370878348989988,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 5 · inside apex"
+      },
+      {
+        "start": 0.34601382683953263,
+        "end": 0.3562523619106567,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 6 · inside apex"
+      },
+      {
+        "start": 0.3541439229227501,
+        "end": 0.36347905784053963,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 6 · outside exit"
+      },
+      {
+        "start": 0.38809416394832513,
+        "end": 0.418511397875814,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 7 · inside apex"
+      },
+      {
+        "start": 0.42664802102792454,
+        "end": 0.447647792787011,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 7 · outside exit"
+      },
+      {
+        "start": 0.4366081787228332,
+        "end": 0.4449863870646373,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 8 · inside apex"
+      },
+      {
+        "start": 0.4772127469566506,
+        "end": 0.48651835757555784,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 9 · inside apex"
+      },
+      {
+        "start": 0.4832325013058085,
+        "end": 0.4917170286348122,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 9 · outside exit"
+      },
+      {
+        "start": 0.4870355853918679,
+        "end": 0.4944803194104491,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 10 · inside apex"
+      },
+      {
+        "start": 0.4950016145391601,
+        "end": 0.5017894602619842,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 10 · outside exit"
+      },
+      {
+        "start": 0.5225585254606839,
+        "end": 0.5369863109033591,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 11 · inside apex"
+      },
+      {
+        "start": 0.5336731992842817,
+        "end": 0.5468279448349562,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 11 · outside exit"
+      },
+      {
+        "start": 0.5510451675909821,
+        "end": 0.5687307424351286,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 12 · inside apex"
+      },
+      {
+        "start": 0.5669563305430351,
+        "end": 0.5825832224370472,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 12 · outside exit"
+      },
+      {
+        "start": 0.6017225987506609,
+        "end": 0.6166168952132611,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 13 · inside apex"
+      },
+      {
+        "start": 0.6108124713194513,
+        "end": 0.6243925651529986,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 13 · outside exit"
+      },
+      {
+        "start": 0.6441332777739648,
+        "end": 0.6618195689919599,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 14 · inside apex"
+      },
+      {
+        "start": 0.6545699758066025,
+        "end": 0.6701972048177197,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 14 · outside exit"
+      },
+      {
+        "start": 0.7379628701289924,
+        "end": 0.7500609655038499,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 15 · inside apex"
+      },
+      {
+        "start": 0.7482541972226743,
+        "end": 0.7592848135938679,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 15 · outside exit"
+      },
+      {
+        "start": 0.7873376689399155,
+        "end": 0.812933336165107,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 16 · inside apex"
+      },
+      {
+        "start": 0.8167839478922091,
+        "end": 0.8361332362008306,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 16 · outside exit"
+      },
+      {
+        "start": 0.8453074510178366,
+        "end": 0.8722369928247831,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 17 · inside apex"
+      },
+      {
+        "start": 0.8913896843207247,
+        "end": 0.9123894560798113,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 17 · outside exit"
+      }
+    ]
+  },
+  "zandvoort": {
+    "version": 1,
+    "status": "INFERRED · corner-focused reconstruction; not surveyed kerb positions",
+    "zones": [
+      {
+        "start": 0.08944192655459719,
+        "end": 0.11338203674435864,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 1 · inside apex"
+      },
+      {
+        "start": 0.11502180253013988,
+        "end": 0.1338012375707815,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 1 · outside exit"
+      },
+      {
+        "start": 0.15663581612093075,
+        "end": 0.16995582146289578,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 2 · inside apex"
+      },
+      {
+        "start": 0.17028450840692316,
+        "end": 0.18464982350281126,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 3 · inside apex"
+      },
+      {
+        "start": 0.18521299481441042,
+        "end": 0.19831078210772018,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 3 · outside exit"
+      },
+      {
+        "start": 0.19859319226464042,
+        "end": 0.2213489466667487,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 4 · inside apex"
+      },
+      {
+        "start": 0.225580261021969,
+        "end": 0.24390853909978075,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 4 · outside exit"
+      },
+      {
+        "start": 0.25633441006643753,
+        "end": 0.27085641045881326,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 5 · inside apex"
+      },
+      {
+        "start": 0.294082728419213,
+        "end": 0.32281627282115366,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 6 · inside apex"
+      },
+      {
+        "start": 0.3248807877619023,
+        "end": 0.3459159565494518,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 6 · outside exit"
+      },
+      {
+        "start": 0.3399439715895865,
+        "end": 0.36005754410514756,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 7 · inside apex"
+      },
+      {
+        "start": 0.3579809109899974,
+        "end": 0.3749596224192506,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 7 · outside exit"
+      },
+      {
+        "start": 0.38849686983450177,
+        "end": 0.42136843598191764,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 8 · inside apex"
+      },
+      {
+        "start": 0.43826499839712,
+        "end": 0.4598663132939933,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 8 · outside exit"
+      },
+      {
+        "start": 0.4637513930584369,
+        "end": 0.4741840415218542,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 9 · inside apex"
+      },
+      {
+        "start": 0.5300457655518188,
+        "end": 0.5629173316992346,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 10 · inside apex"
+      },
+      {
+        "start": 0.5615013870267153,
+        "end": 0.5831027019235885,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 10 · outside exit"
+      },
+      {
+        "start": 0.5851426684049645,
+        "end": 0.6162670892366482,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 11 · inside apex"
+      },
+      {
+        "start": 0.6185408430438141,
+        "end": 0.6401421579406874,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 11 · outside exit"
+      },
+      {
+        "start": 0.7388779211739874,
+        "end": 0.7484509040746984,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 12 · inside apex"
+      },
+      {
+        "start": 0.7457743534032526,
+        "end": 0.754502661342136,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 12 · outside exit"
+      },
+      {
+        "start": 0.7492933375092308,
+        "end": 0.7656701507787336,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 13 · inside apex"
+      },
+      {
+        "start": 0.7699426854877545,
+        "end": 0.7862428929163487,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 13 · outside exit"
+      },
+      {
+        "start": 0.8350081053842454,
+        "end": 0.8551199892157493,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 14 · inside apex"
+      },
+      {
+        "start": 0.849522028555595,
+        "end": 0.8664999453099977,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 14 · outside exit"
+      },
+      {
+        "start": 0.8983482397036612,
+        "end": 0.931219805851077,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 15 · inside apex"
+      },
+      {
+        "start": 0.9283980911706713,
+        "end": 0.9499994060675445,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 15 · outside exit"
+      }
+    ]
+  },
+  "monza": {
+    "version": 1,
+    "status": "INFERRED · corner-focused reconstruction; not surveyed kerb positions",
+    "zones": [
+      {
+        "start": 0.10456039514714845,
+        "end": 0.10983843608943573,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 1 · inside apex"
+      },
+      {
+        "start": 0.10797393443709526,
+        "end": 0.11278626588447482,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 1 · outside exit"
+      },
+      {
+        "start": 0.11075707745281253,
+        "end": 0.11709122368323038,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 2 · inside apex"
+      },
+      {
+        "start": 0.11734080114898782,
+        "end": 0.12311605212378054,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 2 · outside exit"
+      },
+      {
+        "start": 0.13574421322516483,
+        "end": 0.14595674839121167,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 3 · inside apex"
+      },
+      {
+        "start": 0.17485825975969863,
+        "end": 0.19902535797843013,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 4 · inside apex"
+      },
+      {
+        "start": 0.22543756602047227,
+        "end": 0.24131880199278152,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 4 · outside exit"
+      },
+      {
+        "start": 0.3134187523256667,
+        "end": 0.31940299524364146,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 5 · inside apex"
+      },
+      {
+        "start": 0.31791125214528654,
+        "end": 0.32336747362932233,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 5 · outside exit"
+      },
+      {
+        "start": 0.3210170358910068,
+        "end": 0.32629717106677786,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 6 · inside apex"
+      },
+      {
+        "start": 0.32598679258415736,
+        "end": 0.33080103347971335,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 6 · outside exit"
+      },
+      {
+        "start": 0.38457819692066864,
+        "end": 0.4020264172539677,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 7 · inside apex"
+      },
+      {
+        "start": 0.39581202056915105,
+        "end": 0.41028439691704327,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 7 · outside exit"
+      },
+      {
+        "start": 0.43853020502294354,
+        "end": 0.44803718548210947,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 8 · inside apex"
+      },
+      {
+        "start": 0.44633850973390493,
+        "end": 0.45500663897608556,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 8 · outside exit"
+      },
+      {
+        "start": 0.6249756779104113,
+        "end": 0.6334263475870845,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 9 · inside apex"
+      },
+      {
+        "start": 0.6306509052153781,
+        "end": 0.6383559275676389,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 9 · outside exit"
+      },
+      {
+        "start": 0.6354459730134085,
+        "end": 0.6498840479518011,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 10 · inside apex"
+      },
+      {
+        "start": 0.6511234581520889,
+        "end": 0.6634417545226727,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 10 · outside exit"
+      },
+      {
+        "start": 0.6572583036183781,
+        "end": 0.6653573045273535,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 11 · inside apex"
+      },
+      {
+        "start": 0.6655024543394712,
+        "end": 0.6728868375211841,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 11 · outside exit"
+      },
+      {
+        "start": 0.8270296032645831,
+        "end": 0.8458453456776048,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 12 · inside apex"
+      },
+      {
+        "start": 0.8867566759905996,
+        "end": 0.9026379119629089,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 12 · outside exit"
+      }
+    ]
+  },
+  "madrid": {
+    "version": 1,
+    "status": "INFERRED · corner-focused reconstruction; not surveyed kerb positions",
+    "zones": [
+      {
+        "start": 0.03262464311142811,
+        "end": 0.03940262096074514,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 1 · inside apex"
+      },
+      {
+        "start": 0.03800507737854901,
+        "end": 0.04418499835880866,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 1 · outside exit"
+      },
+      {
+        "start": 0.042225492594955255,
+        "end": 0.04862669256373823,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 2 · inside apex"
+      },
+      {
+        "start": 0.0481388986716887,
+        "end": 0.05397528687852023,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 2 · outside exit"
+      },
+      {
+        "start": 0.06259791646704246,
+        "end": 0.08143516338581769,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 3 · inside apex"
+      },
+      {
+        "start": 0.07663265302316262,
+        "end": 0.09140784194576246,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 3 · outside exit"
+      },
+      {
+        "start": 0.2156519798720151,
+        "end": 0.22092654878838483,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 4 · inside apex"
+      },
+      {
+        "start": 0.22562495301242075,
+        "end": 0.2308995715428198,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 5 · inside apex"
+      },
+      {
+        "start": 0.23468115859268912,
+        "end": 0.23957271613916944,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 6 · inside apex"
+      },
+      {
+        "start": 0.23883824847174345,
+        "end": 0.24358217700084495,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 6 · outside exit"
+      },
+      {
+        "start": 0.2411401727918909,
+        "end": 0.2452798599775797,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 7 · inside apex"
+      },
+      {
+        "start": 0.24525773125692918,
+        "end": 0.24966995227391678,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 7 · outside exit"
+      },
+      {
+        "start": 0.2465299448884794,
+        "end": 0.2528786084838787,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 8 · inside apex"
+      },
+      {
+        "start": 0.25445223994045324,
+        "end": 0.2609783387733012,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 8 · outside exit"
+      },
+      {
+        "start": 0.2649125560666144,
+        "end": 0.27357800488230877,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 9 · inside apex"
+      },
+      {
+        "start": 0.2763813527692416,
+        "end": 0.28316284719485046,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 10 · inside apex"
+      },
+      {
+        "start": 0.2983666253978994,
+        "end": 0.30433530685502264,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 11 · inside apex"
+      },
+      {
+        "start": 0.3052021145707338,
+        "end": 0.31084760141622675,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 12 · inside apex"
+      },
+      {
+        "start": 0.30996191120560934,
+        "end": 0.31510926685885293,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 12 · outside exit"
+      },
+      {
+        "start": 0.31189844821648494,
+        "end": 0.32346595216651247,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 13 · inside apex"
+      },
+      {
+        "start": 0.32486188688751305,
+        "end": 0.33585299864009477,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 13 · outside exit"
+      },
+      {
+        "start": 0.3362081262253975,
+        "end": 0.34298947926860174,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 14 · inside apex"
+      },
+      {
+        "start": 0.3415935064994882,
+        "end": 0.34777650486240974,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 14 · outside exit"
+      },
+      {
+        "start": 0.3645974936465261,
+        "end": 0.37665287564806216,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 15 · inside apex"
+      },
+      {
+        "start": 0.37140096961471747,
+        "end": 0.3823926414396474,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 15 · outside exit"
+      },
+      {
+        "start": 0.38170606578507926,
+        "end": 0.3955119912303993,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 16 · inside apex"
+      },
+      {
+        "start": 0.3974020486530147,
+        "end": 0.41004943992786314,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 16 · outside exit"
+      },
+      {
+        "start": 0.42473403877199845,
+        "end": 0.45059292312265903,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 17 · inside apex"
+      },
+      {
+        "start": 0.4987909635161841,
+        "end": 0.5157839446609039,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 17 · outside exit"
+      },
+      {
+        "start": 0.5577695807019953,
+        "end": 0.5702005994147157,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 18 · inside apex"
+      },
+      {
+        "start": 0.5690263121903818,
+        "end": 0.5803604763108033,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 18 · outside exit"
+      },
+      {
+        "start": 0.593935783353459,
+        "end": 0.6084923575164333,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 19 · inside apex"
+      },
+      {
+        "start": 0.6018429301119776,
+        "end": 0.6150225487284775,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 19 · outside exit"
+      },
+      {
+        "start": 0.6204970208316914,
+        "end": 0.6389670660947432,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 20 · inside apex"
+      },
+      {
+        "start": 0.6533695330866836,
+        "end": 0.6703625142314033,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 20 · outside exit"
+      },
+      {
+        "start": 0.6780514949653552,
+        "end": 0.6848327293355355,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 21 · inside apex"
+      },
+      {
+        "start": 0.6834368913261131,
+        "end": 0.6896197814871599,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 21 · outside exit"
+      },
+      {
+        "start": 0.6887547713327008,
+        "end": 0.6962861213496142,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 22 · inside apex"
+      },
+      {
+        "start": 0.6952896051544771,
+        "end": 0.7021564242875452,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 22 · outside exit"
+      },
+      {
+        "start": 0.7282213426789925,
+        "end": 0.7410300982140713,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 23 · inside apex"
+      },
+      {
+        "start": 0.739501032082494,
+        "end": 0.7511796033056541,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 23 · outside exit"
+      },
+      {
+        "start": 0.7682001088223962,
+        "end": 0.7868895778500975,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 24 · inside apex"
+      },
+      {
+        "start": 0.7802401504456419,
+        "end": 0.7967881484733358,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 24 · outside exit"
+      },
+      {
+        "start": 0.8340855540759258,
+        "end": 0.8423680022714316,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 25 · inside apex"
+      },
+      {
+        "start": 0.8395562166974061,
+        "end": 0.8471078606403672,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 25 · outside exit"
+      },
+      {
+        "start": 0.8433429154976987,
+        "end": 0.8486171154111783,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 26 · inside apex"
+      },
+      {
+        "start": 0.8627103485798437,
+        "end": 0.8702417274658426,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 27 · inside apex"
+      },
+      {
+        "start": 0.8686925098446912,
+        "end": 0.8755593552995725,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 27 · outside exit"
+      },
+      {
+        "start": 0.916594158892313,
+        "end": 0.9282707609393297,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 28 · inside apex"
+      },
+      {
+        "start": 0.9250361292714061,
+        "end": 0.9356824429025093,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 28 · outside exit"
+      }
+    ]
+  },
+  "baku": {
+    "version": 1,
+    "status": "INFERRED · corner-focused reconstruction; not surveyed kerb positions",
+    "zones": [
+      {
+        "start": 0.025228703980009894,
+        "end": 0.03474236043665177,
+        "side": -1,
+        "width": 0.55,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 1 · inside apex"
+      },
+      {
+        "start": 0.08288993705944446,
+        "end": 0.09002338604269103,
+        "side": -1,
+        "width": 0.55,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 2 · inside apex"
+      },
+      {
+        "start": 0.22847020480727803,
+        "end": 0.23730310668932159,
+        "side": -1,
+        "width": 0.55,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 3 · inside apex"
+      },
+      {
+        "start": 0.26664177926151,
+        "end": 0.273094328164672,
+        "side": 1,
+        "width": 0.55,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 4 · inside apex"
+      },
+      {
+        "start": 0.322248245699447,
+        "end": 0.33142236342238374,
+        "side": -1,
+        "width": 0.55,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 5 · inside apex"
+      },
+      {
+        "start": 0.33126214421113115,
+        "end": 0.3383967957574229,
+        "side": 1,
+        "width": 0.55,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 6 · inside apex"
+      },
+      {
+        "start": 0.39639047639740593,
+        "end": 0.4042025997479536,
+        "side": 1,
+        "width": 0.55,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 7 · inside apex"
+      },
+      {
+        "start": 0.4304021625852378,
+        "end": 0.4351550500343086,
+        "side": -1,
+        "width": 0.55,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 8 · inside apex"
+      },
+      {
+        "start": 0.4366009058385427,
+        "end": 0.43993257333746394,
+        "side": 1,
+        "width": 0.55,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 9 · inside apex"
+      },
+      {
+        "start": 0.44006619209483816,
+        "end": 0.4434640288890077,
+        "side": -1,
+        "width": 0.55,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 10 · inside apex"
+      },
+      {
+        "start": 0.4463728871813547,
+        "end": 0.4521475967377348,
+        "side": 1,
+        "width": 0.55,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 11 · inside apex"
+      },
+      {
+        "start": 0.45667492534521137,
+        "end": 0.46482738674556706,
+        "side": -1,
+        "width": 0.55,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 12 · inside apex"
+      },
+      {
+        "start": 0.524117773593109,
+        "end": 0.5343126767474381,
+        "side": -1,
+        "width": 0.55,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 13 · inside apex"
+      },
+      {
+        "start": 0.5611410965562317,
+        "end": 0.5672582737364826,
+        "side": -1,
+        "width": 0.55,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 14 · inside apex"
+      },
+      {
+        "start": 0.6002937603495418,
+        "end": 0.6060690411233772,
+        "side": -1,
+        "width": 0.55,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 15 · inside apex"
+      },
+      {
+        "start": 0.6570555186834393,
+        "end": 0.6672482358187183,
+        "side": -1,
+        "width": 0.55,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 16 · inside apex"
+      },
+      {
+        "start": 0.6939156138858237,
+        "end": 0.6993530495426528,
+        "side": 1,
+        "width": 0.55,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 17 · inside apex"
+      },
+      {
+        "start": 0.7320385041749004,
+        "end": 0.7401943493973908,
+        "side": -1,
+        "width": 0.55,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 18 · inside apex"
+      },
+      {
+        "start": 0.7586860018453544,
+        "end": 0.7675214994914353,
+        "side": 1,
+        "width": 0.55,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 19 · inside apex"
+      }
+    ]
+  },
+  "sepang": {
+    "version": 1,
+    "status": "INFERRED · corner-focused reconstruction; not surveyed kerb positions",
+    "zones": [
+      {
+        "start": 0.061851279638025454,
+        "end": 0.08134705522760824,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 1 · inside apex"
+      },
+      {
+        "start": 0.07485237725451095,
+        "end": 0.09014754220025066,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 1 · outside exit"
+      },
+      {
+        "start": 0.08086296636053346,
+        "end": 0.09336969098050672,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 2 · inside apex"
+      },
+      {
+        "start": 0.09404115112448834,
+        "end": 0.10544434121916985,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 2 · outside exit"
+      },
+      {
+        "start": 0.10064107172598534,
+        "end": 0.11268700360108314,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 3 · inside apex"
+      },
+      {
+        "start": 0.11651385207000328,
+        "end": 0.12904037252257392,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 3 · outside exit"
+      },
+      {
+        "start": 0.13162710656808282,
+        "end": 0.15407371730571665,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 4 · inside apex"
+      },
+      {
+        "start": 0.1538528344679733,
+        "end": 0.17018899249052796,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 4 · outside exit"
+      },
+      {
+        "start": 0.22916461065839647,
+        "end": 0.23836025235008446,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 5 · inside apex"
+      },
+      {
+        "start": 0.23673664746499973,
+        "end": 0.24512090900742114,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 5 · outside exit"
+      },
+      {
+        "start": 0.2759687121513642,
+        "end": 0.29942015901329827,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 6 · inside apex"
+      },
+      {
+        "start": 0.3188979803889306,
+        "end": 0.33549549076462365,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 6 · outside exit"
+      },
+      {
+        "start": 0.3390651294832585,
+        "end": 0.36002500212038313,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 7 · inside apex"
+      },
+      {
+        "start": 0.3535303241472858,
+        "end": 0.36969303942430415,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 7 · outside exit"
+      },
+      {
+        "start": 0.4081151412482011,
+        "end": 0.4154726592218827,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 8 · inside apex"
+      },
+      {
+        "start": 0.41449914848552627,
+        "end": 0.42120747369682415,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 8 · outside exit"
+      },
+      {
+        "start": 0.42776670010149676,
+        "end": 0.435860744833312,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 9 · inside apex"
+      },
+      {
+        "start": 0.4347357364129884,
+        "end": 0.4421156007272906,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 9 · outside exit"
+      },
+      {
+        "start": 0.5143282149616007,
+        "end": 0.5246257939359353,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 10 · inside apex"
+      },
+      {
+        "start": 0.5235868030250505,
+        "end": 0.532975772089885,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 10 · outside exit"
+      },
+      {
+        "start": 0.5728605180873146,
+        "end": 0.5943267976050126,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 11 · inside apex"
+      },
+      {
+        "start": 0.5878321196319154,
+        "end": 0.6044296300076084,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 11 · outside exit"
+      },
+      {
+        "start": 0.6358153873400888,
+        "end": 0.6478389531356025,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 12 · inside apex"
+      },
+      {
+        "start": 0.6488562896760577,
+        "end": 0.6599274340851395,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 12 · outside exit"
+      },
+      {
+        "start": 0.6973202058341422,
+        "end": 0.72040913347948,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 13 · inside apex"
+      },
+      {
+        "start": 0.7139144555063828,
+        "end": 0.7305119658820758,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 13 · outside exit"
+      },
+      {
+        "start": 0.8695974007153555,
+        "end": 0.886887969684201,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 14 · inside apex"
+      },
+      {
+        "start": 0.8859954492085597,
+        "end": 0.8999052346340375,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 14 · outside exit"
+      }
+    ]
+  },
+  "marina_bay": {
+    "version": 1,
+    "status": "INFERRED · corner-focused reconstruction; not surveyed kerb positions",
+    "zones": [
+      {
+        "start": 0.056108778131327586,
+        "end": 0.06562575904181671,
+        "side": -1,
+        "width": 0.55,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 1 · inside apex"
+      },
+      {
+        "start": 0.06573457425398987,
+        "end": 0.07497369100581475,
+        "side": 1,
+        "width": 0.55,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 2 · inside apex"
+      },
+      {
+        "start": 0.08216796751936596,
+        "end": 0.09589511170915205,
+        "side": -1,
+        "width": 0.55,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 3 · inside apex"
+      },
+      {
+        "start": 0.11187719983756947,
+        "end": 0.12305261497532137,
+        "side": -1,
+        "width": 0.55,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 4 · inside apex"
+      },
+      {
+        "start": 0.15883157869627176,
+        "end": 0.18200892192628607,
+        "side": 1,
+        "width": 0.55,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 5 · inside apex"
+      },
+      {
+        "start": 0.25595254946006174,
+        "end": 0.2650585037570349,
+        "side": 1,
+        "width": 0.55,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 6 · inside apex"
+      },
+      {
+        "start": 0.33365900489290756,
+        "end": 0.3431744310596025,
+        "side": -1,
+        "width": 0.55,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 7 · inside apex"
+      },
+      {
+        "start": 0.3780959533579783,
+        "end": 0.3863661267324366,
+        "side": 1,
+        "width": 0.55,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 8 · inside apex"
+      },
+      {
+        "start": 0.4136940971545356,
+        "end": 0.43231681143081674,
+        "side": -1,
+        "width": 0.55,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 9 · inside apex"
+      },
+      {
+        "start": 0.5063940559364699,
+        "end": 0.5270874965233651,
+        "side": -1,
+        "width": 0.55,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 10 · inside apex"
+      },
+      {
+        "start": 0.5355513951413704,
+        "end": 0.5417523949065406,
+        "side": 1,
+        "width": 0.55,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 11 · inside apex"
+      },
+      {
+        "start": 0.5435107161586689,
+        "end": 0.551739774564903,
+        "side": -1,
+        "width": 0.55,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 12 · inside apex"
+      },
+      {
+        "start": 0.5763181711726334,
+        "end": 0.5825263884468107,
+        "side": 1,
+        "width": 0.55,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 13 · inside apex"
+      },
+      {
+        "start": 0.5880031344504179,
+        "end": 0.6024847600021871,
+        "side": -1,
+        "width": 0.55,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 14 · inside apex"
+      },
+      {
+        "start": 0.7010301846863145,
+        "end": 0.7134439995547847,
+        "side": 1,
+        "width": 0.55,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 15 · inside apex"
+      },
+      {
+        "start": 0.7461910962167512,
+        "end": 0.7609577455458282,
+        "side": -1,
+        "width": 0.55,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 16 · inside apex"
+      },
+      {
+        "start": 0.8512305469937176,
+        "end": 0.857846046970671,
+        "side": 1,
+        "width": 0.55,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 17 · inside apex"
+      },
+      {
+        "start": 0.8621120177668733,
+        "end": 0.8749417431103471,
+        "side": -1,
+        "width": 0.55,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 18 · inside apex"
+      },
+      {
+        "start": 0.9234304340117554,
+        "end": 0.9317065556167561,
+        "side": -1,
+        "width": 0.55,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 19 · inside apex"
+      },
+      {
+        "start": 0.9435139555930462,
+        "end": 0.9517914166388006,
+        "side": -1,
+        "width": 0.55,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 20 · inside apex"
+      }
+    ]
+  },
+  "americas": {
+    "version": 1,
+    "status": "INFERRED · corner-focused reconstruction; not surveyed kerb positions",
+    "zones": [
+      {
+        "start": 0.05630326126344152,
+        "end": 0.06665625827188187,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 1 · inside apex"
+      },
+      {
+        "start": 0.0639803367849461,
+        "end": 0.07341983405734762,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 1 · outside exit"
+      },
+      {
+        "start": 0.10425207270651762,
+        "end": 0.12205133335151624,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 2 · inside apex"
+      },
+      {
+        "start": 0.11552131339369562,
+        "end": 0.1312500870926865,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 2 · outside exit"
+      },
+      {
+        "start": 0.14798718907424616,
+        "end": 0.1578788384511737,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 3 · inside apex"
+      },
+      {
+        "start": 0.15881469131485879,
+        "end": 0.1679227870644194,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 3 · outside exit"
+      },
+      {
+        "start": 0.1654853372697892,
+        "end": 0.17510462185015302,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 4 · inside apex"
+      },
+      {
+        "start": 0.17475637381497625,
+        "end": 0.18352689799119035,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 4 · outside exit"
+      },
+      {
+        "start": 0.18361408572882953,
+        "end": 0.19397312020144417,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 5 · inside apex"
+      },
+      {
+        "start": 0.19129622168088034,
+        "end": 0.200741223700029,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 5 · outside exit"
+      },
+      {
+        "start": 0.21581482546953418,
+        "end": 0.23739891020330398,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 6 · inside apex"
+      },
+      {
+        "start": 0.23086889024548335,
+        "end": 0.2475567190265805,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 6 · outside exit"
+      },
+      {
+        "start": 0.2486437534135949,
+        "end": 0.262582320752814,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 7 · inside apex"
+      },
+      {
+        "start": 0.2667779522285561,
+        "end": 0.2800686520676447,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 7 · outside exit"
+      },
+      {
+        "start": 0.2773269007925412,
+        "end": 0.29286513973233375,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 8 · inside apex"
+      },
+      {
+        "start": 0.2912606373346817,
+        "end": 0.30437721196166645,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 8 · outside exit"
+      },
+      {
+        "start": 0.2984468051068123,
+        "end": 0.30547451121777847,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 9 · inside apex"
+      },
+      {
+        "start": 0.3048435973308037,
+        "end": 0.3112512117260963,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 9 · outside exit"
+      },
+      {
+        "start": 0.33452942352103193,
+        "end": 0.34229873434721614,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 10 · inside apex"
+      },
+      {
+        "start": 0.3409710102754017,
+        "end": 0.34805479367574615,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 10 · outside exit"
+      },
+      {
+        "start": 0.4053912322729895,
+        "end": 0.41833461904125263,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 11 · inside apex"
+      },
+      {
+        "start": 0.41431033338311424,
+        "end": 0.4261116566130012,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 11 · outside exit"
+      },
+      {
+        "start": 0.6248758632119691,
+        "end": 0.634117186115545,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 12 · inside apex"
+      },
+      {
+        "start": 0.6303109780602935,
+        "end": 0.6387368901194362,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 12 · outside exit"
+      },
+      {
+        "start": 0.6634758366619686,
+        "end": 0.6749416087873257,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 13 · inside apex"
+      },
+      {
+        "start": 0.6744847880560789,
+        "end": 0.6849388744056693,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 13 · outside exit"
+      },
+      {
+        "start": 0.6830900931974487,
+        "end": 0.691228384901242,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 14 · inside apex"
+      },
+      {
+        "start": 0.6895532057366139,
+        "end": 0.6969734128783078,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 14 · outside exit"
+      },
+      {
+        "start": 0.6952547569723495,
+        "end": 0.7019144286893783,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 15 · inside apex"
+      },
+      {
+        "start": 0.7143940870685643,
+        "end": 0.7292256910570811,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 16 · inside apex"
+      },
+      {
+        "start": 0.7226956710992605,
+        "end": 0.7356355567085205,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 16 · outside exit"
+      },
+      {
+        "start": 0.768382729352441,
+        "end": 0.7858115637774689,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 17 · inside apex"
+      },
+      {
+        "start": 0.7792815438196482,
+        "end": 0.794661814796091,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 17 · outside exit"
+      },
+      {
+        "start": 0.8070025000363571,
+        "end": 0.8233539316154882,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 18 · inside apex"
+      },
+      {
+        "start": 0.8168239116576675,
+        "end": 0.8327266582776635,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 18 · outside exit"
+      },
+      {
+        "start": 0.852434463279839,
+        "end": 0.8646428465614552,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 19 · inside apex"
+      },
+      {
+        "start": 0.8651219544774416,
+        "end": 0.8762531274695036,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 19 · outside exit"
+      },
+      {
+        "start": 0.9083128843522873,
+        "end": 0.9186683035379059,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 20 · inside apex"
+      },
+      {
+        "start": 0.9159911470491012,
+        "end": 0.9254328527771654,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 20 · outside exit"
+      }
+    ]
+  },
+  "rodriguez": {
+    "version": 1,
+    "status": "INFERRED · corner-focused reconstruction; not surveyed kerb positions",
+    "zones": [
+      {
+        "start": 0.263798825133935,
+        "end": 0.27422080702045076,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 1 · inside apex"
+      },
+      {
+        "start": 0.2720748635717003,
+        "end": 0.2815772588211706,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 1 · outside exit"
+      },
+      {
+        "start": 0.2842557322068502,
+        "end": 0.2927822657873693,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 2 · inside apex"
+      },
+      {
+        "start": 0.29102550196558796,
+        "end": 0.29879969434782605,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 2 · outside exit"
+      },
+      {
+        "start": 0.2960974727015026,
+        "end": 0.3046238672480936,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 3 · inside apex"
+      },
+      {
+        "start": 0.3042613023106408,
+        "end": 0.3120353679266502,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 3 · outside exit"
+      },
+      {
+        "start": 0.310127636055655,
+        "end": 0.33240117193205126,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 4 · inside apex"
+      },
+      {
+        "start": 0.4586837680747044,
+        "end": 0.46957952171715406,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 5 · inside apex"
+      },
+      {
+        "start": 0.46768369046121017,
+        "end": 0.4776180540763848,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 5 · outside exit"
+      },
+      {
+        "start": 0.47633518086246945,
+        "end": 0.48675246503466596,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 6 · inside apex"
+      },
+      {
+        "start": 0.485305086892465,
+        "end": 0.4948031989318206,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 6 · outside exit"
+      },
+      {
+        "start": 0.5083401930002966,
+        "end": 0.5230251247033434,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 7 · inside apex"
+      },
+      {
+        "start": 0.5203501120258022,
+        "end": 0.533739314460933,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 7 · outside exit"
+      },
+      {
+        "start": 0.5887430144188538,
+        "end": 0.6001148688518182,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 8 · inside apex"
+      },
+      {
+        "start": 0.5984705159059778,
+        "end": 0.6088389714183865,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 8 · outside exit"
+      },
+      {
+        "start": 0.6145124624972336,
+        "end": 0.6273074592952378,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 9 · inside apex"
+      },
+      {
+        "start": 0.6208403728325783,
+        "end": 0.6325063993248764,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 9 · outside exit"
+      },
+      {
+        "start": 0.6295794607588414,
+        "end": 0.6456914424853515,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 10 · inside apex"
+      },
+      {
+        "start": 0.6444649364754761,
+        "end": 0.6591552727555294,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 10 · outside exit"
+      },
+      {
+        "start": 0.6772334976699407,
+        "end": 0.6900274676699529,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 11 · inside apex"
+      },
+      {
+        "start": 0.687044983260425,
+        "end": 0.698710073554554,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 11 · outside exit"
+      },
+      {
+        "start": 0.6988501232631176,
+        "end": 0.7102230958445582,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 12 · inside apex"
+      },
+      {
+        "start": 0.708578395514849,
+        "end": 0.7189478705155743,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 12 · outside exit"
+      },
+      {
+        "start": 0.7390475447003606,
+        "end": 0.7494733985421851,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 13 · inside apex"
+      },
+      {
+        "start": 0.8322117856540908,
+        "end": 0.8416860115103468,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 14 · inside apex"
+      },
+      {
+        "start": 0.8404317121102238,
+        "end": 0.8490699768615162,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 14 · outside exit"
+      },
+      {
+        "start": 0.873770065457709,
+        "end": 0.8851355829887938,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 15 · inside apex"
+      },
+      {
+        "start": 0.8820974780809381,
+        "end": 0.8924601558298683,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 15 · outside exit"
+      },
+      {
+        "start": 0.8884217518967524,
+        "end": 0.8969489679803819,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 16 · inside apex"
+      },
+      {
+        "start": 0.8958896935483883,
+        "end": 0.903664508212874,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 16 · outside exit"
+      },
+      {
+        "start": 0.9000559176689971,
+        "end": 0.9062164878687776,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 17 · inside apex"
+      },
+      {
+        "start": 0.9128928027441837,
+        "end": 0.9382136350189045,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 18 · inside apex"
+      },
+      {
+        "start": 0.9632942645730231,
+        "end": 0.9846697292251965,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 18 · outside exit"
+      }
+    ]
+  },
+  "interlagos": {
+    "version": 1,
+    "status": "INFERRED · corner-focused reconstruction; not surveyed kerb positions",
+    "zones": [
+      {
+        "start": 0.0614922469463934,
+        "end": 0.08325751131675559,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 1 · inside apex"
+      },
+      {
+        "start": 0.08095157245395118,
+        "end": 0.09862036680825606,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 1 · outside exit"
+      },
+      {
+        "start": 0.09105013142003845,
+        "end": 0.10240537051997557,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 2 · inside apex"
+      },
+      {
+        "start": 0.10145895375825563,
+        "end": 0.11181225999643359,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 2 · outside exit"
+      },
+      {
+        "start": 0.1264109311790648,
+        "end": 0.15890106806957935,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 3 · inside apex"
+      },
+      {
+        "start": 0.16515405192225754,
+        "end": 0.18650471330745283,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 3 · outside exit"
+      },
+      {
+        "start": 0.31299044738138526,
+        "end": 0.3300245485867155,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 4 · inside apex"
+      },
+      {
+        "start": 0.3279978786946319,
+        "end": 0.3434402433242158,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 4 · outside exit"
+      },
+      {
+        "start": 0.3493148610498138,
+        "end": 0.37581510660135525,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 5 · inside apex"
+      },
+      {
+        "start": 0.3767118152596991,
+        "end": 0.396608836052206,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 5 · outside exit"
+      },
+      {
+        "start": 0.45373059663377174,
+        "end": 0.4797182075746533,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 6 · inside apex"
+      },
+      {
+        "start": 0.49780030985600654,
+        "end": 0.5191509712412018,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 6 · outside exit"
+      },
+      {
+        "start": 0.5277733174580662,
+        "end": 0.5466979024112101,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 7 · inside apex"
+      },
+      {
+        "start": 0.5409409713835593,
+        "end": 0.5572729754238791,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 7 · outside exit"
+      },
+      {
+        "start": 0.5483669983812504,
+        "end": 0.5736816278767458,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 8 · inside apex"
+      },
+      {
+        "start": 0.5812988573675965,
+        "end": 0.6014170011778018,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 8 · outside exit"
+      },
+      {
+        "start": 0.6191013453358103,
+        "end": 0.6460137973026483,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 9 · inside apex"
+      },
+      {
+        "start": 0.6376591906736588,
+        "end": 0.6590098520588541,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 9 · outside exit"
+      },
+      {
+        "start": 0.6596996956757781,
+        "end": 0.6877753529160697,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 10 · inside apex"
+      },
+      {
+        "start": 0.7016826391705117,
+        "end": 0.7230333005557069,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 10 · outside exit"
+      },
+      {
+        "start": 0.741441066253935,
+        "end": 0.7561077647203188,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 11 · inside apex"
+      },
+      {
+        "start": 0.7555237720484529,
+        "end": 0.7688963500619205,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 11 · outside exit"
+      },
+      {
+        "start": 0.7727673848327138,
+        "end": 0.7860174410871965,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 12 · inside apex"
+      },
+      {
+        "start": 0.7860730536102656,
+        "end": 0.7981539872540587,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 12 · outside exit"
+      },
+      {
+        "start": 0.8334374292490672,
+        "end": 0.8575718426782787,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 13 · inside apex"
+      },
+      {
+        "start": 0.8533885225821224,
+        "end": 0.8721722106111798,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 13 · outside exit"
+      },
+      {
+        "start": 0.9137049556860999,
+        "end": 0.9303794694118889,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 14 · inside apex"
+      },
+      {
+        "start": 0.9375954035158702,
+        "end": 0.9548202957559713,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 14 · outside exit"
+      }
+    ]
+  },
+  "vegas": {
+    "version": 1,
+    "status": "INFERRED · corner-focused reconstruction; not surveyed kerb positions",
+    "zones": [
+      {
+        "start": 0.012579170868783011,
+        "end": 0.03402559020622672,
+        "side": -1,
+        "width": 0.55,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 1 · inside apex"
+      },
+      {
+        "start": 0.05127982927648994,
+        "end": 0.06740629060311447,
+        "side": 1,
+        "width": 0.55,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 2 · inside apex"
+      },
+      {
+        "start": 0.2248889727664016,
+        "end": 0.23278201579349753,
+        "side": 1,
+        "width": 0.55,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 3 · inside apex"
+      },
+      {
+        "start": 0.26874696731167663,
+        "end": 0.27697104913175086,
+        "side": -1,
+        "width": 0.55,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 4 · inside apex"
+      },
+      {
+        "start": 0.294272182656714,
+        "end": 0.308816311992391,
+        "side": -1,
+        "width": 0.55,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 5 · inside apex"
+      },
+      {
+        "start": 0.30768746180637224,
+        "end": 0.31697367284230654,
+        "side": 1,
+        "width": 0.55,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 6 · inside apex"
+      },
+      {
+        "start": 0.3284875370983315,
+        "end": 0.34086977949887665,
+        "side": -1,
+        "width": 0.55,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 7 · inside apex"
+      },
+      {
+        "start": 0.4098401124662366,
+        "end": 0.4181482225419302,
+        "side": 1,
+        "width": 0.55,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 8 · inside apex"
+      },
+      {
+        "start": 0.4205221410271587,
+        "end": 0.42512780742310946,
+        "side": 1,
+        "width": 0.55,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 9 · inside apex"
+      },
+      {
+        "start": 0.45245354358895556,
+        "end": 0.4570591188681669,
+        "side": -1,
+        "width": 0.55,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 10 · inside apex"
+      },
+      {
+        "start": 0.46418055597418273,
+        "end": 0.47330172688594624,
+        "side": -1,
+        "width": 0.55,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 11 · inside apex"
+      },
+      {
+        "start": 0.49178632945971024,
+        "end": 0.4980341474778995,
+        "side": -1,
+        "width": 0.55,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 12 · inside apex"
+      },
+      {
+        "start": 0.807392268560749,
+        "end": 0.8133100834449619,
+        "side": -1,
+        "width": 0.55,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 13 · inside apex"
+      },
+      {
+        "start": 0.8138504452426157,
+        "end": 0.8184554327166633,
+        "side": 1,
+        "width": 0.55,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 14 · inside apex"
+      },
+      {
+        "start": 0.8215224822201622,
+        "end": 0.8330367336232063,
+        "side": -1,
+        "width": 0.55,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 15 · inside apex"
+      },
+      {
+        "start": 0.9521706143864787,
+        "end": 0.9617111002279694,
+        "side": -1,
+        "width": 0.55,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 16 · inside apex"
+      }
+    ]
+  },
+  "losail": {
+    "version": 1,
+    "status": "INFERRED · corner-focused reconstruction; not surveyed kerb positions",
+    "zones": [
+      {
+        "start": 0.08094371506280604,
+        "end": 0.1038971262996476,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 1 · inside apex"
+      },
+      {
+        "start": 0.10698940436254518,
+        "end": 0.12369615820568723,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 1 · outside exit"
+      },
+      {
+        "start": 0.14036649472971177,
+        "end": 0.16068608609110235,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 2 · inside apex"
+      },
+      {
+        "start": 0.16232863071353318,
+        "end": 0.17779593990940418,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 2 · outside exit"
+      },
+      {
+        "start": 0.19173198261184835,
+        "end": 0.2033977042229597,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 3 · inside apex"
+      },
+      {
+        "start": 0.19850558125899245,
+        "end": 0.20914197449265284,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 3 · outside exit"
+      },
+      {
+        "start": 0.26639853198342806,
+        "end": 0.28257916891957924,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 4 · inside apex"
+      },
+      {
+        "start": 0.2774378847807784,
+        "end": 0.29095745071771323,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 4 · outside exit"
+      },
+      {
+        "start": 0.2916441991514098,
+        "end": 0.30525745915688207,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 5 · inside apex"
+      },
+      {
+        "start": 0.30842757558800044,
+        "end": 0.32141589768393886,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 5 · outside exit"
+      },
+      {
+        "start": 0.34794781503220396,
+        "end": 0.36262046306829576,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 6 · inside apex"
+      },
+      {
+        "start": 0.36265697532324687,
+        "end": 0.3754668994248596,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 6 · outside exit"
+      },
+      {
+        "start": 0.417572996397701,
+        "end": 0.442408159598735,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 7 · inside apex"
+      },
+      {
+        "start": 0.4451134065074891,
+        "end": 0.4620907086037368,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 7 · outside exit"
+      },
+      {
+        "start": 0.45157179349304183,
+        "end": 0.4659939669908971,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 8 · inside apex"
+      },
+      {
+        "start": 0.4788718673066094,
+        "end": 0.4952255325631805,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 8 · outside exit"
+      },
+      {
+        "start": 0.4877875284102748,
+        "end": 0.5005818150729485,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 9 · inside apex"
+      },
+      {
+        "start": 0.4990544518616244,
+        "end": 0.5107198308775915,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 9 · outside exit"
+      },
+      {
+        "start": 0.5235151993392283,
+        "end": 0.5447641989286103,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 10 · inside apex"
+      },
+      {
+        "start": 0.5513653116376156,
+        "end": 0.5678949892093288,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 10 · outside exit"
+      },
+      {
+        "start": 0.6402833007407781,
+        "end": 0.6548376706517323,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 11 · inside apex"
+      },
+      {
+        "start": 0.659834537620098,
+        "end": 0.6737085750577099,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 11 · outside exit"
+      },
+      {
+        "start": 0.6813017334682362,
+        "end": 0.6933433770868228,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 12 · inside apex"
+      },
+      {
+        "start": 0.6903108099973987,
+        "end": 0.7012899556496395,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 12 · outside exit"
+      },
+      {
+        "start": 0.7166532008216433,
+        "end": 0.7291375939368566,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 13 · inside apex"
+      },
+      {
+        "start": 0.7303771735335813,
+        "end": 0.7420423539930524,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 13 · outside exit"
+      },
+      {
+        "start": 0.7796088011620441,
+        "end": 0.7931555344058691,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 14 · inside apex"
+      },
+      {
+        "start": 0.7893311891185233,
+        "end": 0.8016112709649515,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 14 · outside exit"
+      },
+      {
+        "start": 0.856112720493313,
+        "end": 0.8754921336473176,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 15 · inside apex"
+      },
+      {
+        "start": 0.880089645189928,
+        "end": 0.8953799027290743,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 15 · outside exit"
+      }
+    ]
+  },
+  "yas_marina": {
+    "version": 1,
+    "status": "INFERRED · corner-focused reconstruction; not surveyed kerb positions",
+    "zones": [
+      {
+        "start": 0.0437952501747183,
+        "end": 0.056150293428448676,
+        "side": -1,
+        "width": 0.95,
+        "color": "bluewhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 1 · inside apex"
+      },
+      {
+        "start": 0.0547422441164594,
+        "end": 0.06600713649486062,
+        "side": 1,
+        "width": 0.95,
+        "color": "bluewhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 1 · outside exit"
+      },
+      {
+        "start": 0.08864429677994325,
+        "end": 0.10215931537942456,
+        "side": -1,
+        "width": 0.95,
+        "color": "bluewhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 2 · inside apex"
+      },
+      {
+        "start": 0.10136420966001494,
+        "end": 0.11368672661836554,
+        "side": 1,
+        "width": 0.95,
+        "color": "bluewhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 2 · outside exit"
+      },
+      {
+        "start": 0.12871206921859873,
+        "end": 0.15522219989996933,
+        "side": 1,
+        "width": 0.95,
+        "color": "bluewhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 3 · inside apex"
+      },
+      {
+        "start": 0.14953665296108565,
+        "end": 0.16695759598027202,
+        "side": -1,
+        "width": 0.95,
+        "color": "bluewhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 3 · outside exit"
+      },
+      {
+        "start": 0.18182112012399834,
+        "end": 0.19042671989818838,
+        "side": -1,
+        "width": 0.95,
+        "color": "bluewhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 4 · inside apex"
+      },
+      {
+        "start": 0.2424931483830272,
+        "end": 0.26063909243867395,
+        "side": -1,
+        "width": 0.95,
+        "color": "bluewhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 5 · inside apex"
+      },
+      {
+        "start": 0.2568619698983356,
+        "end": 0.2714606961306843,
+        "side": 1,
+        "width": 0.95,
+        "color": "bluewhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 5 · outside exit"
+      },
+      {
+        "start": 0.4746649302473563,
+        "end": 0.4827673694103606,
+        "side": -1,
+        "width": 0.95,
+        "color": "bluewhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 6 · inside apex"
+      },
+      {
+        "start": 0.4813811427073608,
+        "end": 0.4887686607677472,
+        "side": 1,
+        "width": 0.95,
+        "color": "bluewhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 6 · outside exit"
+      },
+      {
+        "start": 0.48696526900232895,
+        "end": 0.49429802096123315,
+        "side": 1,
+        "width": 0.95,
+        "color": "bluewhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 7 · inside apex"
+      },
+      {
+        "start": 0.49307205888785355,
+        "end": 0.49975780332097214,
+        "side": -1,
+        "width": 0.95,
+        "color": "bluewhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 7 · outside exit"
+      },
+      {
+        "start": 0.5149224814427811,
+        "end": 0.5276658152746316,
+        "side": -1,
+        "width": 0.95,
+        "color": "bluewhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 8 · inside apex"
+      },
+      {
+        "start": 0.6592907890318902,
+        "end": 0.6804958654974463,
+        "side": -1,
+        "width": 0.95,
+        "color": "bluewhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 9 · inside apex"
+      },
+      {
+        "start": 0.7088807011713394,
+        "end": 0.7263016441905258,
+        "side": 1,
+        "width": 0.95,
+        "color": "bluewhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 9 · outside exit"
+      },
+      {
+        "start": 0.7477982614319962,
+        "end": 0.7559074269269479,
+        "side": 1,
+        "width": 0.95,
+        "color": "bluewhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 10 · inside apex"
+      },
+      {
+        "start": 0.7539538541047677,
+        "end": 0.7613475049972236,
+        "side": -1,
+        "width": 0.95,
+        "color": "bluewhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 10 · outside exit"
+      },
+      {
+        "start": 0.7722057411948877,
+        "end": 0.7814729424562535,
+        "side": 1,
+        "width": 0.95,
+        "color": "bluewhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 11 · inside apex"
+      },
+      {
+        "start": 0.7812684292778861,
+        "end": 0.7897179363103078,
+        "side": -1,
+        "width": 0.95,
+        "color": "bluewhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 11 · outside exit"
+      },
+      {
+        "start": 0.7989059076983697,
+        "end": 0.8070105768027328,
+        "side": 1,
+        "width": 0.95,
+        "color": "bluewhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 12 · inside apex"
+      },
+      {
+        "start": 0.8056256198582241,
+        "end": 0.8130151711004376,
+        "side": -1,
+        "width": 0.95,
+        "color": "bluewhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 12 · outside exit"
+      },
+      {
+        "start": 0.8189342656111409,
+        "end": 0.8301312188888202,
+        "side": -1,
+        "width": 0.95,
+        "color": "bluewhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 13 · inside apex"
+      },
+      {
+        "start": 0.8275421585371142,
+        "end": 0.8377511453491159,
+        "side": 1,
+        "width": 0.95,
+        "color": "bluewhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 13 · outside exit"
+      },
+      {
+        "start": 0.8381606996344472,
+        "end": 0.8532757709659716,
+        "side": -1,
+        "width": 0.95,
+        "color": "bluewhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 14 · inside apex"
+      },
+      {
+        "start": 0.857085204093652,
+        "end": 0.8709577469100759,
+        "side": 1,
+        "width": 0.95,
+        "color": "bluewhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 14 · outside exit"
+      },
+      {
+        "start": 0.8965018282424394,
+        "end": 0.9115611729927567,
+        "side": 1,
+        "width": 0.95,
+        "color": "bluewhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 15 · inside apex"
+      },
+      {
+        "start": 0.9047863231428569,
+        "end": 0.9179325320550507,
+        "side": -1,
+        "width": 0.95,
+        "color": "bluewhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 15 · outside exit"
+      },
+      {
+        "start": 0.937002204648117,
+        "end": 0.9528319634064354,
+        "side": 1,
+        "width": 0.95,
+        "color": "bluewhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 16 · inside apex"
+      },
+      {
+        "start": 0.946237830220032,
+        "end": 0.9597465869006968,
+        "side": -1,
+        "width": 0.95,
+        "color": "bluewhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 16 · outside exit"
+      }
+    ]
+  },
+  "bahrain": {
+    "version": 1,
+    "status": "INFERRED · corner-focused reconstruction; not surveyed kerb positions",
+    "zones": [
+      {
+        "start": 0.10097787650352373,
+        "end": 0.11077204079533415,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 1 · inside apex"
+      },
+      {
+        "start": 0.1093116767005463,
+        "end": 0.11824165002543227,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 1 · outside exit"
+      },
+      {
+        "start": 0.11908713767512477,
+        "end": 0.12813274742174266,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 2 · inside apex"
+      },
+      {
+        "start": 0.12682477002510814,
+        "end": 0.13507223773525975,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 2 · outside exit"
+      },
+      {
+        "start": 0.139042072177301,
+        "end": 0.14808890226890228,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 3 · inside apex"
+      },
+      {
+        "start": 0.14788935536869163,
+        "end": 0.1561379357463281,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 3 · outside exit"
+      },
+      {
+        "start": 0.244113837980962,
+        "end": 0.26031998725750355,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 4 · inside apex"
+      },
+      {
+        "start": 0.2623775860019243,
+        "end": 0.27591679559297155,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 4 · outside exit"
+      },
+      {
+        "start": 0.2992674759031023,
+        "end": 0.30605256640280615,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 5 · inside apex"
+      },
+      {
+        "start": 0.313624845869952,
+        "end": 0.32606333266227944,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 6 · inside apex"
+      },
+      {
+        "start": 0.32488829504981287,
+        "end": 0.3362292683016409,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 6 · outside exit"
+      },
+      {
+        "start": 0.3370833554040248,
+        "end": 0.35027626475243984,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 7 · inside apex"
+      },
+      {
+        "start": 0.3472829251053382,
+        "end": 0.35931175421712835,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 7 · outside exit"
+      },
+      {
+        "start": 0.3823397164866003,
+        "end": 0.3970354160310977,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 8 · inside apex"
+      },
+      {
+        "start": 0.39651958582640245,
+        "end": 0.40934799554354656,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 8 · outside exit"
+      },
+      {
+        "start": 0.45516229762645105,
+        "end": 0.46722431812882975,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 9 · inside apex"
+      },
+      {
+        "start": 0.46141493222741403,
+        "end": 0.4724126568031122,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 9 · outside exit"
+      },
+      {
+        "start": 0.47220136607750796,
+        "end": 0.4801095398385412,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 10 · inside apex"
+      },
+      {
+        "start": 0.4787576602964081,
+        "end": 0.4859680540197032,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 10 · outside exit"
+      },
+      {
+        "start": 0.5992153653956626,
+        "end": 0.6221268929909172,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 11 · inside apex"
+      },
+      {
+        "start": 0.6459626322855716,
+        "end": 0.6629618931915703,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 11 · outside exit"
+      },
+      {
+        "start": 0.6805166409002553,
+        "end": 0.7008420428328804,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 12 · inside apex"
+      },
+      {
+        "start": 0.6941901581305331,
+        "end": 0.7111894190365318,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 12 · outside exit"
+      },
+      {
+        "start": 0.7226089744620233,
+        "end": 0.7452241655480387,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 13 · inside apex"
+      },
+      {
+        "start": 0.7429697168215423,
+        "end": 0.759524946087636,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 13 · outside exit"
+      },
+      {
+        "start": 0.8755529963892282,
+        "end": 0.8849738768873926,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 14 · inside apex"
+      },
+      {
+        "start": 0.8833102258742954,
+        "end": 0.8918998522108571,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 14 · outside exit"
+      },
+      {
+        "start": 0.8918235387900438,
+        "end": 0.8997394167026234,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 15 · inside apex"
+      }
+    ]
+  },
+  "jeddah": {
+    "version": 1,
+    "status": "INFERRED · corner-focused reconstruction; not surveyed kerb positions",
+    "zones": [
+      {
+        "start": 0.0684574761942967,
+        "end": 0.07440150128035355,
+        "side": -1,
+        "width": 0.55,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 1 · inside apex"
+      },
+      {
+        "start": 0.07531342522857563,
+        "end": 0.08595151932349449,
+        "side": 1,
+        "width": 0.55,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 2 · inside apex"
+      },
+      {
+        "start": 0.10180087135029754,
+        "end": 0.1090701302368097,
+        "side": -1,
+        "width": 0.55,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 3 · inside apex"
+      },
+      {
+        "start": 0.15154047749127533,
+        "end": 0.1574862043404435,
+        "side": -1,
+        "width": 0.55,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 4 · inside apex"
+      },
+      {
+        "start": 0.1588844893407929,
+        "end": 0.17577457401968652,
+        "side": 1,
+        "width": 0.55,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 5 · inside apex"
+      },
+      {
+        "start": 0.19343231355717488,
+        "end": 0.20499696437438253,
+        "side": -1,
+        "width": 0.55,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 6 · inside apex"
+      },
+      {
+        "start": 0.21225645484043296,
+        "end": 0.22018622840867824,
+        "side": -1,
+        "width": 0.55,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 7 · inside apex"
+      },
+      {
+        "start": 0.22326717744598537,
+        "end": 0.2315269649737964,
+        "side": 1,
+        "width": 0.55,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 8 · inside apex"
+      },
+      {
+        "start": 0.24488924361089315,
+        "end": 0.25586086715111195,
+        "side": 1,
+        "width": 0.55,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 9 · inside apex"
+      },
+      {
+        "start": 0.2658596792489697,
+        "end": 0.27444966067955534,
+        "side": -1,
+        "width": 0.55,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 10 · inside apex"
+      },
+      {
+        "start": 0.3084741912004487,
+        "end": 0.3154131982394686,
+        "side": -1,
+        "width": 0.55,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 11 · inside apex"
+      },
+      {
+        "start": 0.37592235835890375,
+        "end": 0.39859809531444224,
+        "side": -1,
+        "width": 0.55,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 12 · inside apex"
+      },
+      {
+        "start": 0.42516033718814966,
+        "end": 0.43989961426864616,
+        "side": 1,
+        "width": 0.55,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 13 · inside apex"
+      },
+      {
+        "start": 0.4718671812447143,
+        "end": 0.4824407373738704,
+        "side": -1,
+        "width": 0.55,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 14 · inside apex"
+      },
+      {
+        "start": 0.4871052945633269,
+        "end": 0.49635613777593623,
+        "side": 1,
+        "width": 0.55,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 15 · inside apex"
+      },
+      {
+        "start": 0.5025945523814636,
+        "end": 0.5177934015754245,
+        "side": -1,
+        "width": 0.55,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 16 · inside apex"
+      },
+      {
+        "start": 0.5303012829869338,
+        "end": 0.5445096928377017,
+        "side": -1,
+        "width": 0.55,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 17 · inside apex"
+      },
+      {
+        "start": 0.5748994496517486,
+        "end": 0.5834905577204081,
+        "side": 1,
+        "width": 0.55,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 18 · inside apex"
+      },
+      {
+        "start": 0.5991955630054964,
+        "end": 0.6070545132984747,
+        "side": -1,
+        "width": 0.55,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 19 · inside apex"
+      },
+      {
+        "start": 0.6082822964840973,
+        "end": 0.6152212955555263,
+        "side": -1,
+        "width": 0.55,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 20 · inside apex"
+      },
+      {
+        "start": 0.6297311201636372,
+        "end": 0.6370977174593697,
+        "side": 1,
+        "width": 0.55,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 21 · inside apex"
+      },
+      {
+        "start": 0.6827648421857282,
+        "end": 0.6923463422503593,
+        "side": -1,
+        "width": 0.55,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 22 · inside apex"
+      },
+      {
+        "start": 0.7018798569528307,
+        "end": 0.7111315361313306,
+        "side": 1,
+        "width": 0.55,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 23 · inside apex"
+      },
+      {
+        "start": 0.7185662082861692,
+        "end": 0.7274873982297654,
+        "side": 1,
+        "width": 0.55,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 24 · inside apex"
+      },
+      {
+        "start": 0.7566427901815238,
+        "end": 0.7640061467078302,
+        "side": -1,
+        "width": 0.55,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 25 · inside apex"
+      },
+      {
+        "start": 0.7686062706021498,
+        "end": 0.778519096605559,
+        "side": -1,
+        "width": 0.55,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 26 · inside apex"
+      },
+      {
+        "start": 0.8902028060141209,
+        "end": 0.9047384962885233,
+        "side": -1,
+        "width": 0.55,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 27 · inside apex"
+      }
+    ]
+  }
+}

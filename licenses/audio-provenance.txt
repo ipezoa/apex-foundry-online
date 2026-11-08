@@ -1,0 +1,6 @@
+No third-party sound recording is embedded in this source archive or the built HTML.
+Procedural synthesis code is covered by the project MIT license.
+The optional user-initiated CC0 engine download is credited to domasx2:
+https://opengameart.org/content/racing-car-engine-sound-loops
+Mirror attribution: https://github.com/yashimosh/border-run/blob/main/CREDITS.md
+See AUDIO.md for availability, license context and local-import restrictions.

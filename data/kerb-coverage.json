@@ -1,0 +1,152 @@
+[
+  {
+    "id": "albert_park",
+    "intervals": 37,
+    "edgeCoverage": 0.19998662735788367,
+    "status": "INFERRED · corner-focused reconstruction; not surveyed kerb positions"
+  },
+  {
+    "id": "shanghai",
+    "intervals": 24,
+    "edgeCoverage": 0.16013434344245867,
+    "status": "INFERRED · corner-focused reconstruction; not surveyed kerb positions"
+  },
+  {
+    "id": "suzuka",
+    "intervals": 40,
+    "edgeCoverage": 0.2654853944668596,
+    "status": "INFERRED · corner-focused reconstruction; not surveyed kerb positions"
+  },
+  {
+    "id": "miami",
+    "intervals": 35,
+    "edgeCoverage": 0.17791326775952887,
+    "status": "INFERRED · corner-focused reconstruction; not surveyed kerb positions"
+  },
+  {
+    "id": "villeneuve",
+    "intervals": 28,
+    "edgeCoverage": 0.15541104037216275,
+    "status": "INFERRED · corner-focused reconstruction; not surveyed kerb positions"
+  },
+  {
+    "id": "monaco",
+    "intervals": 25,
+    "edgeCoverage": 0.17784723679223768,
+    "status": "INFERRED · corner-focused reconstruction; not surveyed kerb positions"
+  },
+  {
+    "id": "catalunya",
+    "intervals": 26,
+    "edgeCoverage": 0.22504080006030527,
+    "status": "INFERRED · corner-focused reconstruction; not surveyed kerb positions"
+  },
+  {
+    "id": "red_bull_ring",
+    "intervals": 16,
+    "edgeCoverage": 0.1480458872683708,
+    "status": "REFERENCE-INFORMED · T1/T6/T7 exit presence supported; all numeric extents inferred"
+  },
+  {
+    "id": "silverstone",
+    "intervals": 35,
+    "edgeCoverage": 0.22937060141849286,
+    "status": "INFERRED · corner-focused reconstruction; not surveyed kerb positions"
+  },
+  {
+    "id": "spa",
+    "intervals": 36,
+    "edgeCoverage": 0.1824298651966277,
+    "status": "INFERRED · corner-focused reconstruction; not surveyed kerb positions"
+  },
+  {
+    "id": "hungaroring",
+    "intervals": 32,
+    "edgeCoverage": 0.2532385441347772,
+    "status": "INFERRED · corner-focused reconstruction; not surveyed kerb positions"
+  },
+  {
+    "id": "zandvoort",
+    "intervals": 27,
+    "edgeCoverage": 0.2661883592373315,
+    "status": "INFERRED · corner-focused reconstruction; not surveyed kerb positions"
+  },
+  {
+    "id": "monza",
+    "intervals": 23,
+    "edgeCoverage": 0.11184722791185787,
+    "status": "INFERRED · corner-focused reconstruction; not surveyed kerb positions"
+  },
+  {
+    "id": "madrid",
+    "intervals": 50,
+    "edgeCoverage": 0.23848070512652472,
+    "status": "INFERRED · corner-focused reconstruction; not surveyed kerb positions"
+  },
+  {
+    "id": "baku",
+    "intervals": 19,
+    "edgeCoverage": 0.06868893064446055,
+    "status": "INFERRED · corner-focused reconstruction; not surveyed kerb positions"
+  },
+  {
+    "id": "sepang",
+    "intervals": 28,
+    "edgeCoverage": 0.19208395500553846,
+    "status": "INFERRED · corner-focused reconstruction; not surveyed kerb positions"
+  },
+  {
+    "id": "marina_bay",
+    "intervals": 20,
+    "edgeCoverage": 0.11652320721263021,
+    "status": "INFERRED · corner-focused reconstruction; not surveyed kerb positions"
+  },
+  {
+    "id": "americas",
+    "intervals": 39,
+    "edgeCoverage": 0.2214131067461776,
+    "status": "INFERRED · corner-focused reconstruction; not surveyed kerb positions"
+  },
+  {
+    "id": "rodriguez",
+    "intervals": 33,
+    "edgeCoverage": 0.18742854299456385,
+    "status": "INFERRED · corner-focused reconstruction; not surveyed kerb positions"
+  },
+  {
+    "id": "interlagos",
+    "intervals": 28,
+    "edgeCoverage": 0.2679089319117531,
+    "status": "INFERRED · corner-focused reconstruction; not surveyed kerb positions"
+  },
+  {
+    "id": "vegas",
+    "intervals": 16,
+    "edgeCoverage": 0.07642355860984554,
+    "status": "INFERRED · corner-focused reconstruction; not surveyed kerb positions"
+  },
+  {
+    "id": "losail",
+    "intervals": 30,
+    "edgeCoverage": 0.21747921321345579,
+    "status": "INFERRED · corner-focused reconstruction; not surveyed kerb positions"
+  },
+  {
+    "id": "yas_marina",
+    "intervals": 30,
+    "edgeCoverage": 0.18595792337780193,
+    "status": "INFERRED · corner-focused reconstruction; not surveyed kerb positions"
+  },
+  {
+    "id": "bahrain",
+    "intervals": 28,
+    "edgeCoverage": 0.1734856198505096,
+    "status": "INFERRED · corner-focused reconstruction; not surveyed kerb positions"
+  },
+  {
+    "id": "jeddah",
+    "intervals": 27,
+    "edgeCoverage": 0.1382295623437148,
+    "status": "INFERRED · corner-focused reconstruction; not surveyed kerb positions"
+  }
+]

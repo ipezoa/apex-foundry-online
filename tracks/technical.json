@@ -1,0 +1,320 @@
+{
+  "version": 1,
+  "name": "Switchback Works",
+  "direction": 1,
+  "width": 16,
+  "segments": [
+    {
+      "type": "straight",
+      "length": 220,
+      "radius": 60,
+      "angle": 90,
+      "grade": 0,
+      "bank": 0,
+      "width": 16,
+      "runoffLeft": 20,
+      "runoffRight": 20,
+      "runoffSurface": "grass"
+    },
+    {
+      "type": "right",
+      "length": 0,
+      "radius": 45,
+      "angle": 90,
+      "grade": 0,
+      "bank": 5,
+      "width": 16,
+      "runoffLeft": 20,
+      "runoffRight": 20,
+      "runoffSurface": "grass"
+    },
+    {
+      "type": "straight",
+      "length": 65,
+      "radius": 60,
+      "angle": 90,
+      "grade": 0,
+      "bank": 0,
+      "width": 16,
+      "runoffLeft": 20,
+      "runoffRight": 20,
+      "runoffSurface": "grass"
+    },
+    {
+      "type": "left",
+      "length": 0,
+      "radius": 38,
+      "angle": 90,
+      "grade": 0,
+      "bank": -5,
+      "width": 16,
+      "runoffLeft": 20,
+      "runoffRight": 20,
+      "runoffSurface": "grass"
+    },
+    {
+      "type": "straight",
+      "length": 100,
+      "radius": 60,
+      "angle": 90,
+      "grade": 0,
+      "bank": 0,
+      "width": 16,
+      "runoffLeft": 20,
+      "runoffRight": 20,
+      "runoffSurface": "grass"
+    },
+    {
+      "type": "right",
+      "length": 0,
+      "radius": 60,
+      "angle": 180,
+      "grade": 0,
+      "bank": 7,
+      "width": 16,
+      "runoffLeft": 20,
+      "runoffRight": 20,
+      "runoffSurface": "grass"
+    },
+    {
+      "type": "straight",
+      "length": 100,
+      "radius": 60,
+      "angle": 90,
+      "grade": 0,
+      "bank": 0,
+      "width": 16,
+      "runoffLeft": 20,
+      "runoffRight": 20,
+      "runoffSurface": "grass"
+    },
+    {
+      "type": "left",
+      "length": 0,
+      "radius": 38,
+      "angle": 90,
+      "grade": 0,
+      "bank": -5,
+      "width": 16,
+      "runoffLeft": 20,
+      "runoffRight": 20,
+      "runoffSurface": "grass"
+    },
+    {
+      "type": "straight",
+      "length": 65,
+      "radius": 60,
+      "angle": 90,
+      "grade": 0,
+      "bank": 0,
+      "width": 16,
+      "runoffLeft": 20,
+      "runoffRight": 20,
+      "runoffSurface": "grass"
+    },
+    {
+      "type": "right",
+      "length": 0,
+      "radius": 45,
+      "angle": 90,
+      "grade": 0,
+      "bank": 5,
+      "width": 16,
+      "runoffLeft": 20,
+      "runoffRight": 20,
+      "runoffSurface": "grass"
+    },
+    {
+      "type": "straight",
+      "length": 220,
+      "radius": 60,
+      "angle": 90,
+      "grade": 0,
+      "bank": 0,
+      "width": 16,
+      "runoffLeft": 20,
+      "runoffRight": 20,
+      "runoffSurface": "grass"
+    },
+    {
+      "type": "right",
+      "length": 0,
+      "radius": 60,
+      "angle": 180,
+      "grade": 0,
+      "bank": 7,
+      "width": 16,
+      "runoffLeft": 20,
+      "runoffRight": 20,
+      "runoffSurface": "grass"
+    }
+  ],
+  "kerbs": {
+    "version": 1,
+    "status": "INFERRED · corner-focused reconstruction; not surveyed kerb positions",
+    "zones": [
+      {
+        "start": 0,
+        "end": 0.001731222371232226,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 8 · inside apex"
+      },
+      {
+        "start": 0,
+        "end": 0.023832346430856497,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 8 · outside exit"
+      },
+      {
+        "start": 0.1257894953201737,
+        "end": 0.16406426528977766,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 1 · inside apex"
+      },
+      {
+        "start": 0.15450597488982057,
+        "end": 0.1894035592738712,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 1 · outside exit"
+      },
+      {
+        "start": 0.19148730379241563,
+        "end": 0.22775446382901154,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 2 · inside apex"
+      },
+      {
+        "start": 0.22696215185268073,
+        "end": 0.2600292683566358,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 2 · outside exit"
+      },
+      {
+        "start": 0.31368422265011797,
+        "end": 0.3922410563403683,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 3 · inside apex"
+      },
+      {
+        "start": 0.38522590728190387,
+        "end": 0.4368489694212112,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 3 · outside exit"
+      },
+      {
+        "start": 0.4429538724174007,
+        "end": 0.4792210324539968,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 4 · inside apex"
+      },
+      {
+        "start": 0.47847373012263733,
+        "end": 0.5115408466265925,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 4 · outside exit"
+      },
+      {
+        "start": 0.5266473554001878,
+        "end": 0.5649221253697917,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 5 · inside apex"
+      },
+      {
+        "start": 0.5521108541049143,
+        "end": 0.5870084384889648,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 5 · outside exit"
+      },
+      {
+        "start": 0.6986673676562797,
+        "end": 0.7769735581333134,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 6 · inside apex"
+      },
+      {
+        "start": 0.7729615966398514,
+        "end": 0.8245846587791588,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 6 · outside exit"
+      },
+      {
+        "start": 0.7902655060447006,
+        "end": 0.8374812583177427,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 7 · inside apex"
+      },
+      {
+        "start": 0.8463802083713132,
+        "end": 0.8874999566496402,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 7 · outside exit"
+      },
+      {
+        "start": 0.9510874862056622,
+        "end": 1,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 8 · inside apex"
+      },
+      {
+        "start": 0.9820441522993714,
+        "end": 1,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 8 · outside exit"
+      }
+    ]
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "version": 1,
+  "name": "Summit Ring",
+  "direction": 1,
+  "width": 16,
+  "segments": [
+    {
+      "type": "straight",
+      "length": 300,
+      "radius": 60,
+      "angle": 90,
+      "grade": 4,
+      "bank": 0,
+      "width": 16,
+      "runoffLeft": 20,
+      "runoffRight": 20,
+      "runoffSurface": "grass"
+    },
+    {
+      "type": "right",
+      "length": 0,
+      "radius": 85,
+      "angle": 90,
+      "grade": 2,
+      "bank": 7,
+      "width": 16,
+      "runoffLeft": 20,
+      "runoffRight": 20,
+      "runoffSurface": "grass"
+    },
+    {
+      "type": "straight",
+      "length": 180,
+      "radius": 60,
+      "angle": 90,
+      "grade": -2,
+      "bank": 0,
+      "width": 16,
+      "runoffLeft": 20,
+      "runoffRight": 20,
+      "runoffSurface": "grass"
+    },
+    {
+      "type": "right",
+      "length": 0,
+      "radius": 85,
+      "angle": 90,
+      "grade": -2,
+      "bank": 7,
+      "width": 16,
+      "runoffLeft": 20,
+      "runoffRight": 20,
+      "runoffSurface": "grass"
+    },
+    {
+      "type": "straight",
+      "length": 300,
+      "radius": 60,
+      "angle": 90,
+      "grade": -4,
+      "bank": 0,
+      "width": 16,
+      "runoffLeft": 20,
+      "runoffRight": 20,
+      "runoffSurface": "grass"
+    },
+    {
+      "type": "right",
+      "length": 0,
+      "radius": 85,
+      "angle": 90,
+      "grade": 2,
+      "bank": 7,
+      "width": 16,
+      "runoffLeft": 20,
+      "runoffRight": 20,
+      "runoffSurface": "grass"
+    },
+    {
+      "type": "straight",
+      "length": 180,
+      "radius": 60,
+      "angle": 90,
+      "grade": 2,
+      "bank": 0,
+      "width": 16,
+      "runoffLeft": 20,
+      "runoffRight": 20,
+      "runoffSurface": "grass"
+    },
+    {
+      "type": "right",
+      "length": 0,
+      "radius": 85,
+      "angle": 90,
+      "grade": -2,
+      "bank": 7,
+      "width": 16,
+      "runoffLeft": 20,
+      "runoffRight": 20,
+      "runoffSurface": "grass"
+    }
+  ],
+  "kerbs": {
+    "version": 1,
+    "status": "INFERRED · corner-focused reconstruction; not surveyed kerb positions",
+    "zones": [
+      {
+        "start": 0,
+        "end": 0.031156493898520665,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 4 · outside exit"
+      },
+      {
+        "start": 0.19084906504388213,
+        "end": 0.24664107670818441,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 1 · inside apex"
+      },
+      {
+        "start": 0.27684071997880827,
+        "end": 0.33197316210524125,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 1 · outside exit"
+      },
+      {
+        "start": 0.4006290443180488,
+        "end": 0.4564210178613208,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 2 · inside apex"
+      },
+      {
+        "start": 0.48662069925297485,
+        "end": 0.5417531413794078,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 2 · outside exit"
+      },
+      {
+        "start": 0.6908490650438821,
+        "end": 0.7466410767081844,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 3 · inside apex"
+      },
+      {
+        "start": 0.7768407199788081,
+        "end": 0.831973162105241,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 3 · outside exit"
+      },
+      {
+        "start": 0.9006290443180492,
+        "end": 0.9536915783586681,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 4 · inside apex"
+      },
+      {
+        "start": 0.9785929360098786,
+        "end": 1,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 4 · outside exit"
+      }
+    ]
+  }
+}

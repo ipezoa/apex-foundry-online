@@ -1,0 +1,107 @@
+{
+  "version": 1,
+  "name": "Velocity Oval",
+  "direction": 1,
+  "width": 16,
+  "segments": [
+    {
+      "type": "straight",
+      "length": 320,
+      "radius": 60,
+      "angle": 90,
+      "grade": 0,
+      "bank": 0,
+      "width": 16,
+      "runoffLeft": 20,
+      "runoffRight": 20,
+      "runoffSurface": "grass"
+    },
+    {
+      "type": "right",
+      "length": 0,
+      "radius": 100,
+      "angle": 180,
+      "grade": 0,
+      "bank": 9,
+      "width": 16,
+      "runoffLeft": 20,
+      "runoffRight": 20,
+      "runoffSurface": "grass"
+    },
+    {
+      "type": "straight",
+      "length": 320,
+      "radius": 60,
+      "angle": 90,
+      "grade": 0,
+      "bank": 0,
+      "width": 16,
+      "runoffLeft": 20,
+      "runoffRight": 20,
+      "runoffSurface": "grass"
+    },
+    {
+      "type": "right",
+      "length": 0,
+      "radius": 100,
+      "angle": 180,
+      "grade": 0,
+      "bank": 9,
+      "width": 16,
+      "runoffLeft": 20,
+      "runoffRight": 20,
+      "runoffSurface": "grass"
+    }
+  ],
+  "kerbs": {
+    "version": 1,
+    "status": "INFERRED · corner-focused reconstruction; not surveyed kerb positions",
+    "zones": [
+      {
+        "start": 0,
+        "end": 0.047307602350208526,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 2 · outside exit"
+      },
+      {
+        "start": 0.4188590290474126,
+        "end": 0.5125858854850707,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 1 · inside apex"
+      },
+      {
+        "start": 0.48420132407494554,
+        "end": 0.5567396476785986,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 1 · outside exit"
+      },
+      {
+        "start": 0.7914741669222702,
+        "end": 0.9018585724060902,
+        "side": 1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 2 · inside apex"
+      },
+      {
+        "start": 0.9747692787465555,
+        "end": 1,
+        "side": -1,
+        "width": 0.95,
+        "color": "redwhite",
+        "evidence": "inferred-curvature",
+        "label": "Bend 2 · outside exit"
+      }
+    ]
+  }
+}

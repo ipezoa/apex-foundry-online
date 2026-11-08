@@ -1,0 +1,252 @@
+{
+  "albert_park": {
+    "record": {
+      "time": "1:19.813",
+      "driver": "Charles Leclerc",
+      "year": 2024
+    },
+    "capacity": 125000,
+    "weather": "Variable",
+    "racesHeld": 29
+  },
+  "shanghai": {
+    "record": {
+      "time": "1:32.238",
+      "driver": "Michael Schumacher",
+      "year": 2004
+    },
+    "capacity": 200000,
+    "weather": "Variable",
+    "racesHeld": 19
+  },
+  "suzuka": {
+    "record": {
+      "time": "1:30.965",
+      "driver": "Kimi Antonelli",
+      "year": 2025
+    },
+    "capacity": 155000,
+    "weather": "Variable",
+    "racesHeld": 36
+  },
+  "miami": {
+    "record": {
+      "time": "1:29.708",
+      "driver": "Max Verstappen",
+      "year": 2023
+    },
+    "capacity": 65000,
+    "weather": "Hot and Humid",
+    "racesHeld": 5
+  },
+  "villeneuve": {
+    "record": {
+      "time": "1:13.078",
+      "driver": "Valtteri Bottas",
+      "year": 2019
+    },
+    "capacity": 100000,
+    "weather": "Variable",
+    "racesHeld": 45
+  },
+  "monaco": {
+    "record": {
+      "time": "1:12.909",
+      "driver": "Lewis Hamilton",
+      "year": 2021
+    },
+    "capacity": 37000,
+    "weather": "Mediterranean",
+    "racesHeld": 72
+  },
+  "catalunya": {
+    "record": {
+      "time": "1:15.743",
+      "driver": "Oscar Piastri",
+      "year": 2025
+    },
+    "capacity": 140700,
+    "weather": "Mediterranean",
+    "racesHeld": 36
+  },
+  "red_bull_ring": {
+    "record": {
+      "time": "1:07.924",
+      "driver": "Oscar Piastri",
+      "year": 2025
+    },
+    "capacity": 105000,
+    "weather": "Mountain Climate",
+    "racesHeld": 40
+  },
+  "silverstone": {
+    "record": {
+      "time": "1:27.097",
+      "driver": "Max Verstappen",
+      "year": 2020
+    },
+    "capacity": 175000,
+    "weather": "Unpredictable",
+    "racesHeld": 61
+  },
+  "spa": {
+    "record": {
+      "time": "1:44.701",
+      "driver": "Sergio Perez",
+      "year": 2024
+    },
+    "capacity": 130000,
+    "weather": "Highly Variable",
+    "racesHeld": 59
+  },
+  "hungaroring": {
+    "record": {
+      "time": "1:16.627",
+      "driver": "Lewis Hamilton",
+      "year": 2020
+    },
+    "capacity": 70000,
+    "weather": "Hot Continental",
+    "racesHeld": 41
+  },
+  "zandvoort": {
+    "record": {
+      "time": "1:11.097",
+      "driver": "Lewis Hamilton",
+      "year": 2021
+    },
+    "capacity": 105000,
+    "weather": "Coastal Maritime",
+    "racesHeld": 36
+  },
+  "monza": {
+    "record": {
+      "time": "1:20.901",
+      "driver": "Lando Norris",
+      "year": 2025
+    },
+    "capacity": 118865,
+    "weather": "Continental",
+    "racesHeld": 76
+  },
+  "madrid": {
+    "record": {
+      "time": "1:35.587",
+      "driver": "George Russell",
+      "year": 2026
+    },
+    "capacity": 110000,
+    "weather": "Mild Continental",
+    "racesHeld": 1
+  },
+  "baku": {
+    "record": {
+      "time": "1:43.009",
+      "driver": "Charles Leclerc",
+      "year": 2019
+    },
+    "capacity": 65000,
+    "weather": "Continental",
+    "racesHeld": 9
+  },
+  "sepang": {
+    "record": {
+      "time": "1:34.080",
+      "driver": "Sebastian Vettel",
+      "year": 2017
+    },
+    "capacity": 130000,
+    "weather": "Hot and Humid",
+    "racesHeld": 19
+  },
+  "marina_bay": {
+    "record": {
+      "time": "1:33.808",
+      "driver": "Lewis Hamilton",
+      "year": 2025
+    },
+    "capacity": 80000,
+    "weather": "Hot and Humid",
+    "racesHeld": 16
+  },
+  "americas": {
+    "record": {
+      "time": "1:36.169",
+      "driver": "Charles Leclerc",
+      "year": 2019
+    },
+    "capacity": 120000,
+    "weather": "Hot Continental",
+    "racesHeld": 13
+  },
+  "rodriguez": {
+    "record": {
+      "time": "1:17.774",
+      "driver": "Valtteri Bottas",
+      "year": 2021
+    },
+    "capacity": 110000,
+    "weather": "High Altitude Continental",
+    "racesHeld": 25
+  },
+  "interlagos": {
+    "record": {
+      "time": "1:10.540",
+      "driver": "Valtteri Bottas",
+      "year": 2018
+    },
+    "capacity": 60000,
+    "weather": "Highly Variable",
+    "racesHeld": 42
+  },
+  "vegas": {
+    "record": {
+      "time": "1:33.365",
+      "driver": "Max Verstappen",
+      "year": 2025
+    },
+    "capacity": 80000,
+    "weather": "Desert Continental",
+    "racesHeld": 3
+  },
+  "losail": {
+    "record": {
+      "time": "1:22.384",
+      "driver": "Lando Norris",
+      "year": 2024
+    },
+    "capacity": 52000,
+    "weather": "Hot Desert",
+    "racesHeld": 4
+  },
+  "yas_marina": {
+    "record": {
+      "time": "1:25.637",
+      "driver": "Kevin Magnussen",
+      "year": 2024
+    },
+    "capacity": 60000,
+    "weather": "Hot Desert",
+    "racesHeld": 17
+  },
+  "bahrain": {
+    "record": {
+      "time": "1:31.447",
+      "driver": "Pedro de la Rosa",
+      "year": 2005
+    },
+    "capacity": 70000,
+    "weather": "Hot and Dry",
+    "racesHeld": 21
+  },
+  "jeddah": {
+    "record": {
+      "time": "1:30.734",
+      "driver": "Lewis Hamilton",
+      "year": 2021
+    },
+    "capacity": 50000,
+    "weather": "Hot and Dry",
+    "racesHeld": 5
+  }
+}
